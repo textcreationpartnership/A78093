@@ -1,0 +1,1034 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Temple-defilers defiled, vvherein a true visible Church of Christ is described. The evils and pernicious errours, especially appertaining to schisme, anabaptisme, and libertinisme, that infest our Church, are discovered. And directions to preserve from the sin and punishment of temple-defiling, delivered in two sermons preached at the lecture in Kingston upon Thames, Feb. 20. &amp; 27. 1644. out of I Cor. 3.17. / By Richard Byfield pastor in Long-Ditton, Surrey.</title>
+            <author>Byfield, Richard, 1598?-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 143 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78093</idno>
+            <idno type="STC">Wing B6394</idno>
+            <idno type="STC">Thomason E278_20</idno>
+            <idno type="STC">ESTC R200019</idno>
+            <idno type="EEBO-CITATION">99860821</idno>
+            <idno type="PROQUEST">99860821</idno>
+            <idno type="VID">158449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E278[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Temple-defilers defiled, vvherein a true visible Church of Christ is described. The evils and pernicious errours, especially appertaining to schisme, anabaptisme, and libertinisme, that infest our Church, are discovered. And directions to preserve from the sin and punishment of temple-defiling, delivered in two sermons preached at the lecture in Kingston upon Thames, Feb. 20. &amp; 27. 1644. out of I Cor. 3.17. / By Richard Byfield pastor in Long-Ditton, Surrey.</title>
+                  <author>Byfield, Richard, 1598?-1664.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Ralph Smith, at the sign of the Bible in Cornhill, neer the Royall-Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Apr: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st III, 17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  Church history --  17th century --  Sermons --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158449:1" rendition="simple:additions"/>
+            <p> Temple-defilers defiled, VVherein a true Viſible CHURCH OF CHRIST Is deſcribed.</p>
+            <p>The Evils and pernicious Errours, eſpecially appertaining to <hi>Schiſme, Anabaptiſme</hi> and <hi>Libertiniſme,</hi> that infeſt our Church, are diſcovered.</p>
+            <p>And Directions to preſerve from the ſin and puniſhment of TEMPLE-DEFILING, DELIVERED In Two <hi>Sermons</hi> preached at the Lecture in <hi>Kingſton</hi> upon <hi>Thames,</hi> Feb. <hi>20. &amp; 27. 1644.</hi> out of <hi>1</hi> Cor. <hi>3. 17.</hi>
+            </p>
+            <p>BY RICHARD BYFIELD Paſtor in Long-Ditton, Surrey.</p>
+            <q>
+               <bibl>Mal. 3. 1, 2.</bibl> The Lord cometh ſuddenly to his Temple.—But who may abide the day of his coming?—For he is like a Refiners fire, and like Fullers ſope.</q>
+            <p>Miror quod non cogitant, poſſe aliquem aliquando utrumque (novum ſcilicet, vetuſque Teſtamentum) legere, &amp; divina ope intellectum utrumque laudare: <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raudemque iſtorum atque malitiam vel dolere tanquam hominum, vel cavere tanquam Haereticorum, vel irridere tanquam imperitorum &amp; ſuperborum. <hi>Aug. Tom.</hi> 6. <hi>l. contra Adimantum Manichaei diſcipulum. cap.</hi> 13.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Ralph Smith,</hi> at the ſign of the Bible in Cornhill, neer the Royall-Exchange. 1645.</p>
+            <pb facs="tcp:158449:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:158449:2"/>
+            <head>To the Right Worſhipfull, and the reſt Dearly Belo<g ref="char:EOLhyphen"/>ved in CHRIST JESUS, the Auditory at the Le<g ref="char:EOLhyphen"/>cture in <hi>Kingston</hi> upon <hi>Thames</hi> in <hi>Surrey.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the mighty worke of God, beſet with wonders of fatherly Providence, that you enjoy againe a Thurſ<g ref="char:EOLhyphen"/>daies Lecture, Preached by ſome of the Miniſters, now ſtanding on their feet by the ſpirit of life from God entring into them who upheld it heretofore, untill Prelaticall uſurpation with furious tyranny ſuſpended them, and <hi>ſpoiled their Neſt,</hi> as their proud threats phra<g ref="char:EOLhyphen"/>ſed their malicious Phariſaicall Act a little before they had fully acted it. The fourth Commandement muſt be turned up by the rootes, the power of godlineſſe, and of faithfull Preaching, with Prayer in the Holy Ghoſt, as bad, with them, as Preaching; the undeniable enemies of the Prelati<g ref="char:EOLhyphen"/>call Kingdome, Crown, and Dignity muſt all be outed, Lectures by godly Miniſters that deſired to be found faithfull may not b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> endured: and now for this work, that was their day. Their power through their intereſt in the Royall favour was ſuperlatively great, their Hierarchy faſt<g ref="char:EOLhyphen"/>ly rooted in the ancient Lawes, and grown up with the body of the King<g ref="char:EOLhyphen"/>dome, Parliaments exploded, the Vniverſities theirs; All preferment in their hands, thouſands of their Enemies gone in Colonies to the Indies the utmoſt ends of the earth, many great and choice wits with them, ſome of them profound Schollers, ſome with them preferred by them to the choiſeſt Sees for ancient fame and preſent maintenance, as good men, and of as good report, even among the godly, as ever any Age had, all the reſt of them painted Tombs, goodly Phariſees to ſee to: And their old friend Rome had got no little ground among us, by matching one of his Daughters here, and for all the Reformed Churches beyond ſea, they were brought very low. What wiſdom of man would not have thought, but that in ſuch a day they ſhould undoubtedly have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad the day. For my part, I ſate down under their unjuſt illegall Sentence, with this ſaying to ſome of my acquaintance yet alive through Gods mercy: <hi>There is no coming in for me again, but with the breaking of the whole State, An alteration that muſt change the Kingdom and the Laws thereof.</hi> I ſate down willing to ſee <hi>the way of God in his work;</hi> the deſires of my ſoul were towards him in that hour and power of darkneſſe, I drew a ſmall draught of it for my own direction. Little did I think the return of our captivity had been ſo neer, and who could conceive the glory and terrour of it? Nevertheleſſe, in the time of that four yeers and four weeks ſuſpenſion and ſequeſtration that I ſuffered, my thoughts, among other things, were on that Text in Zach. 2. 13. <hi>Be ſilent, O all fleſh, before the Lord, for he is raiſed out of his holy ha<g ref="char:EOLhyphen"/>bitation.</hi> In which, collecting the ſignes of the Lords ariſing, I ſaw the
+<pb facs="tcp:158449:3"/> ruine of theſe Luciferian Vſurpers, yet not conceiving it to be ſo neer, in ſuch unparalleld wayes of high providence, with ſuch well founded pro<g ref="char:EOLhyphen"/>ceedings of legality that hath ſlain all them, and caſt out their carc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes, and their worm dyeth not, and their fire is not quenched, and they are an ab<g ref="char:EOLhyphen"/>horring unto all fleſh, With ſuch ſtreams of blood, with ſuch executions <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon a ſenſuall Nobility, Gentry, ſeat of Iudges, ſhop of Lawyers, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nke of Civilians, and ſinfull body of a Malignant Commo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alty; Of which we may ſay not without aſtoniſhment and high <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raiſes, What hath God wrought? Muſt this be the way of Vindica<g ref="char:EOLhyphen"/>tion of the Miniſteriall Liberty, of ſuch a miſerable ſinfull worme as I am? From the Lords right hand went a flame of that fiery Law for us: A fiery Law is the Decalogue of the ten Command<g ref="char:EOLhyphen"/>ments called; the fourth Commandment is then a flame of the fire,<note place="margin">
+                  <hi>Deut.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 2.</note> and it hath fiered the State and habitations of theſe tranſgreſſors; that ſentence warmed and refreſhed my heart, and touched my tongue in that winter ſeaſon, and now ſhould fire us with Gods praiſes, for the time draweth on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pace of the Churches Hallelujahs.<note place="margin">
+                  <hi>Rev.</hi> 19.</note>
+            </p>
+            <p>I write this, that you may not forget how we come to preach again un<g ref="char:EOLhyphen"/>to you at all.</p>
+            <p>But now when I came to preach to you at this time; not only neighbour<g ref="char:EOLhyphen"/>hood of habitation, and former ancient relation to you, and my unfeigh<g ref="char:EOLhyphen"/>ned deſire to do you good by imparting ſome ſpirituall gift, but your de<g ref="char:EOLhyphen"/>ſires, your diviſions, and the care of the Churches, which towards you <hi>came upon me,</hi> becauſe of your diviſions; did much move me. I had no thought at all of making theſe Sermons publique; your import<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ity brings them forth; that word, <hi>Paul, Apolles, Cophas, all the Miniſters ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that word bound me. Being bound, two things more facilita<g ref="char:EOLhyphen"/>ted my yeildance, when I durſt not withſtand the ſuitableneſſe of the ſubject to the times, and the diſeaſedneſſe of the Congrega<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of <hi>King<g ref="char:EOLhyphen"/>ſton,</hi> to which I was once, though moſt unworthy, a Teacher; this year diſeaſe is, The Lord help and heal, the diſeaſe of the Church of <hi>England;</hi> through grievous poverty grown upon her, under the impoſitions and op<g ref="char:EOLhyphen"/>poſitions of her Diotrepheſſes, the Spring of the year of glorious Goſ<g ref="char:EOLhyphen"/>pel-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iberty coming on, there appears a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hiriaſis,</hi> ſhe begins<note place="margin">Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hiriaſis.</note> to ſwarme with Vermine; this ariſeth from want of concocting the wholeſome food of ſound Doctrine, even the truth, which is after God<g ref="char:EOLhyphen"/>lineſſe: if we feed favourly on the ſolid ſubſtantiall truths that concerne <hi>faith and love,</hi> which is in Chriſt Ieſus, and not turn aſide after watery traſh, that food will quickly ſet us ſound, and ſo nouriſh us, that we ſhould ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> off, and rid us of theſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Pht<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ires,</hi> theſe Lice, and Wormes.<note place="margin">Phthires.</note>
+            </p>
+            <p>Waſh you with the waters from under the Sanctuary, and that is Sove<g ref="char:EOLhyphen"/>raigne to kill them, and clear the body, and cleanſe the skin of the Church. Ile reach you ſome that flowes out of one vein of Scripture it r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls the wayes and ſpirit of ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ducers.</p>
+            <p>Their wayes are ſuch as theſe:</p>
+            <p n="1">1. To draw the heart from, and to deſtroy the fundamentall truths; the<note place="margin">2 <hi>Tin.</hi> 2 18. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> firſt truths, pretending they are low, dry and ſapleſſe in compariſon of their depths, and their high ſpeculations, giving metaphoricall, and farre
+<pb facs="tcp:158449:3"/> fetcht meanings and interpretation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>Phil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us</hi> did upon the Article of the Reſurrection; ſaying, it was paſt already, or annexing to thoſe foundation truths, opinions which overthrow them by conſe<g ref="char:EOLhyphen"/>quence, laying one foundation in appearance, and another in deed, as the Apoſtle implieth in 1 <hi>Cor.</hi> 3. 11. So the Papiſts do about the Article of Chriſts Aſcenſion into Heaven, when they teach his corporall reall pre<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Maſſe; of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe kindes of Seducers the Apoſtle ſaith, that their word will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as doth a Canker.<note place="margin">2 <hi>Tim.</hi> 2. 17.</note>
+            </p>
+            <p n="2">2. To beguile by Paralogiſmes or d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceitfull reaſonings, and ſophiſti<g ref="char:EOLhyphen"/>call<note place="margin">
+                  <hi>Col.</hi> 2. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iam.</hi> 1. 22. <hi>Nitor ſer p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o, non Argumento,</hi> Ambr. de ſpi<g ref="char:EOLhyphen"/>ritu Sancto. <hi>Col.</hi> 2. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Rom.</hi> 16. 18. 2 <hi>Tim.</hi> 3. 13. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Euſtachius di<g ref="char:EOLhyphen"/>cit</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>eſſe</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 <hi>Theſ.</hi> 2. 10. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Gal</hi> 3. 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> arguings; when upon miſconceived principles of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſaid as pre<g ref="char:EOLhyphen"/>miſes, wrong concluſions are drawn; like <hi>Satan</hi> their Father, who be<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>les mens hearts by a ſelf de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it, when they ſet up a profeſſion of the wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t often, and thereupon conclude they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re bleſſed, though they neglect the practiſe and obedience <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> againſt this ab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of the uſefull Art of Logicke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it is ſafe to reſt upon the plain Scriptures and a<g ref="char:EOLhyphen"/>void the ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilty of Argument, brought to lead from plain truths.</p>
+            <p n="3">3. To uſe perſwaſive and enticing words, that they might induce to their errours; and the Morall Philoſophy of Heathen Authors about <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ue, naturall abilities, and the chief good, which poſte us of Chriſt, and true conſolation through Fai<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in him, theſe en<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing words are alſo e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther the ſwelling words of Vanity, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dy oſtentation, or good words and f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir ſpeeches.</p>
+            <p n="4">4. To inchant the people through a mournfull behaviour, the old g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e of moſt of the, orders of Fryars and Monkes and the new guſſe of many with us, in 2 <hi>Tim.</hi> 23. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. He uſeth a word for Seducers<g ref="char:punc">▪</g> that ſignifieth an Incha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and lamentation.</p>
+            <p n="5">5. To lead us out of the common b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aten high way; when affectation of a Notion, and of a curious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each makes men innovate word<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and phraſes formerly received in the Church, as beſt expreſſing the ſenſe of Scripture.</p>
+            <p n="6">6. To bewitch with faſcinations; that is, to delude ſimple mindes with gleſings of ſome ſpeciall care of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m, abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome point of truth pre<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nded, as witches do doe eyes of the body, that they thinke verily, they ſee that which they do not ſee, and do not ſee that which is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary they ſhould ſee and know; theſe be witchings are moſt dangerous, when the miſt is caſt over the ſoul with jugling pretexts of ſhewing you Chriſt and F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee grace in a more excellent manner, till you know neither Chriſt no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Free-grace.</p>
+            <p n="7">7. To wreſt and w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y things that are ſtreight and plain.<note place="margin">
+                  <hi>Act.</hi> 20. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Act.</hi> 8. 9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 2 <hi>Cor.</hi> 11. 3.</note>
+            </p>
+            <p n="8">8. To lead people to the admiration of their perſons: (another way of bewitching) bringing them into aſtoniſhment, and a trance upon the conceit of the great power of God in them, and ſome inſpirations of the Holy Ghoſt.</p>
+            <p n="9">9. To corrupt mens mindes from the ſimplicity that is in Chriſt, by adding or diminiſhing ſomewhat of the purity of the Goſpel, whereby we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all from the obedience of faith, as the Serpent dealt with <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve.</p>
+            <p n="10">10. To alleviate the threats of Gods word with vain words and to pro<g ref="char:EOLhyphen"/>miſe<note place="margin">
+                  <hi>Epheſ.</hi> 5. 6. 2 <hi>Pet</hi> 2. 19</note> liberty; and turn Gods grace into wantonneſſe.</p>
+            <pb facs="tcp:158449:4"/>
+            <p> Theſe are the chief path<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Seducers, and for the ſpirit that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrieth<note place="margin">
+                  <hi>I om<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> that of Miracles and lying Wonders of S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tan, in</hi> 2 <hi>Theſ.</hi> 2.</note> them, it is an unruly ſpirit, a ſelf-willed ſpirit, a proud ſpirit, a giddy inconſtant unquiet ſpirit, a ſelf-ſeeking ſpirit, a ſpirit of timorouſneſſe, and baſe fear, not of love, power, and a ſound minde, a ſpirit of earthly mindedneſſe, a ſpirit captived to mens perſons, a ſpirit that creeps into houſes, and leads ſilly wom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n captive, laden with divers luſts, and a do<g ref="char:EOLhyphen"/>ting ſpirit.</p>
+            <p>Of their dotages and deceits, I ſhall give you two inſtances, the one is this, that they conceive they have a great light, and a new light; when their new great light, is either ſome old errour raiſed from Hell again and new painted, or ſome matter of opinion which is very doubtfull, and controverſall, or ſomewhat of leſſer moment, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rged and purſued with ſuch zeale that the great things of the Law and Goſpel are neglected, the very diſpoſition of the Phariſees of old: But if any ſay, ſhould we not ſeek an increaſe and growth in our light; and do not we look for it? yes, in ſome ſenſe we do, and we ought to grow in knowledge; but this is not to be underſtood of any light of new truths, there are no new truth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to<note place="margin">No new truths.</note> be revealed; yet the light may increaſe exceedingly in the more full di<g ref="char:EOLhyphen"/>ſtinct, and ſhining knowledge of received truths, in the clearing and ful<g ref="char:EOLhyphen"/>filling<note place="margin">
+                  <hi>We expect a new and great light, increaſ<g ref="char:EOLhyphen"/>ing in</hi> 8. <hi>things.</hi>
+               </note> of ſome propheſies; in the power of practiſe when Chriſtians in name ſhine in holineſſe, power of faith and godlineſſe, expreſſed in their lives, as ſo many great lights in the frmament of the Church; in taking a<g ref="char:EOLhyphen"/>way the various contentions and quarrels, that now darken and offuſcate the mindes of men; Satan chained up more from deceiving: in the fur<g ref="char:EOLhyphen"/>ther manifeſtation of Gods judgements upon enemies of all ſorts, which thing doth exemplifie and illuſtrate the things we do already know: In the increaſe of the number of able and faithfull Teachers, and knowing holy profeſſors: and in clearer reſolution of ſome obſcure places of Scrip<g ref="char:EOLhyphen"/>ture, together with a more perfect union of the Church of Chriſt on earth, which will be full of Grace, Majeſty, and Terror; now not one of theſe is found in or by the means of our men that boaſt of their new light, for why do not they ſhew it to us?</p>
+            <p>Another Inſtance of their do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing deceivable ſpirit is this, that they can<g ref="char:EOLhyphen"/>not be brought to meaſure themſelves and their tenets by the ſtandard of the Scripture without ſhuffling: It were a plain and eaſie way to ſee the truth in any matter in queſtion about Religion, if men did not love to doat: thus, propoſe the tenet nakedly; ſee whether there be any plain Scripture for it; if there be not, we need go no further: if there be, but yet ſome other Texts ſeeme to ſay againſt it, or a queſtion may be moved a<g ref="char:EOLhyphen"/>bout the ſenſe; hold the Analogy of Faith and rule of righteouſneſſe, ſee the tenour of the Scriptures, and accordingly produce Arguments, and anſwer Objections; as for Example, There are ariſen among us ſome that utterly deny the Baptizing of Infants of Profeſſors of the Faith of Ieſus Chriſt; now how eaſily might this matter be reſolved, among men of quiet and Chriſtian ſpirits? They ſay, Infants ought not to be bap<g ref="char:EOLhyphen"/>tized: What one Text in all the Scripture ſaith ſo? Not one. What Ar<g ref="char:EOLhyphen"/>guments can they alledge? Not one that reacheth the matter in hand; for they all go no further then this, that perſons of age ought firſt to pro<g ref="char:EOLhyphen"/>feſſe
+<pb facs="tcp:158449:4"/> their Faith, and then receive Baptiſme: but not this, that they only ought to receive Baptiſme; how dare men ſay, they muſt be excluded, when God ſaith no ſuch word? on the other ſide<g ref="char:punc">▪</g> doth not the Scripture plainly take-in ſuch Infants into the Covenant, and acknowledge them members of the Church of God: The Infant Iſraelites were not born Heathens, without, were circumciſed, were meant as part of Abrahams ſeed; the Nations to whom the Goſpel comes, and who do receive it, are now of the ſame body with the Iewes, partakers of the ſame promiſe, the grace of God is larger under the New-Teſtament, which it were not, if ſuch a part, as the millions of infant-Chriſtians that die before they come to years, were cut off from it? The Children of believers are ho<g ref="char:EOLhyphen"/>ly, whole houſholds were baptized: Chriſt bleſſed Infants upon this ground, Becauſe of ſuch was the Kingdom of God; that is, not onely Heaven, but the Church of the new Teſtament, which is called the King<g ref="char:EOLhyphen"/>dom of God; there is this ground why thoſe that are of age that repent ſhould receive Baptiſme, becauſe the promiſe is to them, and the promiſe is to their children, therefore their children have the like ground, on which they ought to receive Baptiſme: theſe with the like Arguments are ſtrong and unanſwerable, were it not that theſe perſons doted, and in their Pride will reſolve to be contentious? Let not any think that a ſmall er<g ref="char:EOLhyphen"/>rour which ſhuts out from Chriſt and his Church millions of his Mem<g ref="char:EOLhyphen"/>bers, which runs againſt the conſtant tenour of both Teſtaments, which confines and impriſons the Grace of God in the New-Teſtament, which makes the grace of Chriſt the ſecond <hi>Adam</hi> not to reach one ſort and con<g ref="char:EOLhyphen"/>dition of men, over whom ſin and death paſſeth by and from the firſt <hi>A<g ref="char:EOLhyphen"/>dam,</hi> which evertes and deſtroyes at one blow all the Churches of Chriſt in the whole world: All this doth this unchriſtian error of the Anabap<g ref="char:EOLhyphen"/>tiſts do: The like might be ſaid concerning Church Government, whether the Hierarchy or Independency, or Presbytery be of Chriſt in the Scripture? It might ſoon be determined were it not for a ſpirit of Dotage, Pride, and Contention, but I leave that to the Aſſembly, where it depends and is in Agitation: I hold you from the peruſall of the Sermons, which you heard with much attention; I have written ſome particulars in the enume<g ref="char:EOLhyphen"/>tation of Temple-Polluters under the ſecond Doctrine, which time cut off from delivering, as I then told you, the reſt you have as near as I could ſet down, ſave that one thing throughout the Sermons the Printer could not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nde any Characters or Letters to expreſſe; that is, the ſpirit with which they were delivered with lively voice. You have the Inſtrument and Stick; I cannot help you to the Rozin: The Spirit of God make ſupply thereof, while you read them, &amp; in that ſuperabundant meaſure. Take me into your prayers, and let me be in your eſteem, what I deſire for ever to be whiles remaining in the fleſh; Even</p>
+            <closer>
+               <dateline>From my houſe in Long-Ditton <date>
+                     <hi>April 7. 1645.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours in the ſervice of your faith <hi>RICHARD BYFIELD.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <p>Errata, <hi>Page</hi> 5. <hi>line</hi> 14. <hi>read</hi> converted <hi>for</hi> committed. <hi>p.</hi> 6. <hi>l.</hi> 24. <hi>r.</hi> worlds end <hi>for</hi> world, and. <hi>p.</hi> 23. <hi>In the Title r.</hi> Temple Defilers <hi>for</hi> Hereticks. <hi>l.</hi> 6. <hi>r.</hi> Cavillers <hi>for</hi> Cavaliers. <hi>p.</hi> 25. <hi>l.</hi> 6. <hi>r.</hi> continue <hi>for</hi> contemne.</p>
+            <pb facs="tcp:158449:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:158449:5"/>
+            <head>Temple Defilers Deſtroyed.</head>
+            <epigraph>
+               <bibl>1 COR. 3. 17.</bibl>
+               <q>If any man defile the Temple of God, him ſhall God destroy.</q>
+            </epigraph>
+            <div type="exordium">
+               <p>
+                  <seg rend="decorInit">T</seg>HE circumſtantials of this Text, may profitably ſerve for our <hi>Exordium,</hi> or entrance; they are three; <hi>who</hi> ſpeaks, <hi>how</hi> he ſpeakes, and <hi>to whom.</hi>
+               </p>
+               <div n="1" type="section">
+                  <p n="1">1. <hi>Who</hi> ſpeaks: <hi>Paul</hi> an <hi>Apoſtle</hi> of <hi>Ieſus Chriſt,</hi> therefore it is a Goſpel ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce: <hi>Paul</hi> the <hi>Doctor of the Gentiles,</hi> therefore you Gentiles ought to hear him: <hi>Paul the mouth of Chriſt,</hi> the Pen-man of the Holy Ghoſt, and therefore he that deſpiſeth this word, deſpiſeth not man, but Chriſt, but the Spirit, but God.</p>
+               </div>
+               <div n="2" type="section">
+                  <p n="2">2. <hi>How</hi> he ſpeaks; Firſt by way of <hi>denunciation</hi> of judgement: The Go<g ref="char:EOLhyphen"/>ſpel hath fire in it; the Preachers threaten <hi>deſtruction;</hi> yet the Preachers thereof no <hi>legall</hi> Preachers, for our God is a conſuming Fire; it is true, life and immortality are brought to light by the Goſpel; and it is no leſſe true, then Hell fire and Damnation is Language peculiar to the Goſpel: never any Preached in ſo frequent and plain termes the flames of Hell, and that unquenchable fire, as did our Lord Jeſus, who was ſent of God, Anointed with the ſpirit, that oyle of gladneſſe to preach the Goſpel to the poor, to heal and binde up the broken hearted; that meek Lambe of God, whoſe office it was to ſpeak a word in ſeaſon to the weary ſoul: How often hath he Hell and Hell fire in his mouth in one Sermon? <hi>Mat.</hi> 5. 22. 29, 30. Three times in one breath, with amazing illuſtrations, <hi>Mar.</hi> 9. 43. 45. 47. At another time, all his diſcourſe almoſt beſet (as Paradiſe with a flaming ſword) with as ſore, as plain and equivalent expreſſions; <hi>utter darkneſſe,</hi> where ſhall be weeping, and gnaſhing of teeth; <hi>the Priſon out of which there is no coming by any means till they have paid the utmoſt farthing; the loſſe of the ſoul cutting aſunder, and appointing them their portion with hypocrites; in no caſe any entry into the Kingdom of heaven; no reward of their Father which is in Heaven:</hi> Will any
+<pb n="2" facs="tcp:158449:6"/> dare to deny that Ieſus Chriſt was an Evangelicall Preacher? And it ſtands with all reaſon that ſuch Preaching ſhould be for Goſpel times; for the greater and more glorious are the manifeſtations of Gods grace, the grea<g ref="char:EOLhyphen"/>ter and more glorious are the manifeſtations of Gods grace, the greater is the ſin, and the heavier the wrath and condemnation due to the refuſers, <hi>Heb.</hi> 12. 25 29. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he abuſers, the turners of ſuch grace into laſciviouſneſſe and w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntonneſſe: No marvell then if that Miniſtry of the New Teſtament, that is, as a mirrour to ſhew us the glory of grace with open face, do with as great plainneſſe of ſpeech ſet Hell before us in open view; Heaven is the more Heaven to them that ſee what Hell is: It is not unbeſeeming an Apoſtle, a Tea<g ref="char:EOLhyphen"/>cher of Grace and of the Goſpel, to denounce the judgements of God: <hi>Paul</hi> here ſpeaks by way of threatning. Secondly, he ſpeaks by way of <hi>Argu<g ref="char:EOLhyphen"/>mentation.</hi> 1. Againſt building up the Church with wood, hay, and ſtubble, <hi>ver.</hi> 12. By which is meant, not Doctrine Hereticall, blaſphemous and im<g ref="char:EOLhyphen"/>pious, though that be worſe that ruines the foundation; but vain, curious, unneceſſary, doubtfull, tending to jangling, ſtrife and diviſions; perhaps true, but unprofitable, like the Genealogies, in the which the Jewes were curious or elſe erroneous and of ill conſequence, though not in it ſelf impious: Such in a word as ſuites not with the foundation, ſuch as is not like gold, ſil<g ref="char:EOLhyphen"/>ver, and precious ſtones; theſe only are fit for this building, ſuitable to Chriſt the foundation; the Apoſtle reaſons againſt their bringing ſuch ſtuffe to Gods building, and in this verſe, bringeth his Argument from the greatneſſe of the ſin, and the certain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of the puniſhment: Their ſin is the defiling of Gods Temple, their puniſhment ſhall be deſtruction. 2. Again, his Argument a<g ref="char:EOLhyphen"/>gainſt ſuch ill Church workes, lyeth alſo againſt Schiſme, Diviſions and Factions in the Church, as appeareth to the diligent and intelligent Reader by that in the <hi>chap.</hi> 1. <hi>ver.</hi> 10. 12. and in this <hi>chap.</hi> 3. <hi>ver.</hi> 3, 4, 5. The Apoſtle is ſtill about the cure of this one diſeaſe, and this verſe we are upon, argues againſt it, as a Temple-pollu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er, and deſtructive to thoſe that are guilty of it.</p>
+               </div>
+               <div n="3" type="section">
+                  <p n="3">3. <hi>To whom</hi> he ſpeaks:</p>
+                  <p n="1">1. <hi>To the Church of Corinth, called to be Saints,</hi> 1 <hi>Cor.</hi> 1. 2. Conſider it.</p>
+                  <p n="1">1. He ſpeaks not to them without, there were within the Church too ma<g ref="char:EOLhyphen"/>ny defilers of Gods Temple.</p>
+                  <p n="2">2. He ſpeaks not to a party in that Church, the houſe of <hi>Cloe,</hi> a choice party ſeparating from the faulty party, making up a new Church, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt they ſhould be pollu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed in holding Church Fellowſhip with them that were ſuch ſinners: The houſe of <hi>Cloe</hi> knew how toſtand free from partaking with them in their ſins, and yet retain Goſpel Union to ſeek a Medicine, and not make a rupture: The Apoſtle guided by the ſpirit of Vnion, love, and a ſound minde, breathes forth nothing to make Rents, but what ever might be to
+<pb n="3" facs="tcp:158449:6"/> make up breaches: He directs not the Epiſtle to the houſe of <hi>Cloe,</hi> that ſtood ſound, and untoucht, though they gave him notice of the evils that infeſted the Church at <hi>Corinth:</hi>
+                  </p>
+                  <p>But 1. To the whole company of Profeſſors of Chriſtianity in that great City, to the whole ſociety of Chriſtians there.</p>
+                  <p>2. And that alſo to ſuch a ſociety as were enriched in gifts and graces ſo, that he fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt breaks out in the mention of them with ſolemne Thankſgiving to God, they were enriched in every thing by <hi>Chriſt,</hi> in all utterance, in all knowledge, they came behinde in no gift, as in <hi>chap.</hi> 1. <hi>ver.</hi> 4. 5. 7. Yet many of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heſe fell into this ſin of Schiſme; theſe muſt take heed how they walk on in that ſin, for they may fall under this deſtroying judgement of God.</p>
+                  <p n="2">2. To the <hi>whole and <g ref="char:V">Ʋ</g>niverſall Church of God,</hi> ver. 2. of chap. 1. <hi>All in e<g ref="char:EOLhyphen"/>very place that call upon the name of Jeſus Chriſt our Lord, both theirs and ours:</hi> One Lord in common of one viſible Church in all the world, which is one body under that one head, par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icular viſible Churches are not ſo many Independant Churches, thoſe that ſo teach, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke Jeſus Chriſt monſtrous. The Papiſts make Chriſts Church a Monſter, in that they hold that Chriſt is the head of the Church (which is moſt true) and yet withall, that the Pope is the head of the Church: The Church then is a body that hath two heads.</p>
+                  <p>And thoſe make Chriſt yet more monſtrous, that ſetting up ſo many Inde<g ref="char:EOLhyphen"/>pendant Churches, as there be Chriſtian Congregations in the world, which they call each, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>verally the myſticall Body of Chriſt, do make Chriſt a head that hath ſo many bodies; but there is but one Body; all particular Churches make up one Church and viſible univerſall ſociety; in which Church, he ſai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h not Churches, <hi>God hath ſet Apostles, Prophets, Teachers, Miracles, gifts of healings, helps, Governments, diverſities of Tongues.</hi> There<g ref="char:EOLhyphen"/>fore many of us alſo muſt beware of that and ſuch like ſins of Diviſions that defiled the Church at <hi>Corinth;</hi> for the Ax of this Sentence in this Text is by the Apoſtle laid alſo to every of our roots.</p>
+                  <p>While therefore theſe words are handled according to the truth, Look not on me, as if I ſpake of my ſelf: look not off your ſelves, bleſſe not your ſelves under the vain thoughts of Goſpel-Grace, that you will hear, and only that, or Goſpel-graces and gifts wrought in you, or your freedom from o<g ref="char:EOLhyphen"/>ther groſſe-ſins, as if this of falling into diviſions were no ſin; but conſider who ſpeaks: How, and to whom: And the Lord Jeſus Chriſt make all ſaving to you, though for the preſent it ſhould not ſavour you.</p>
+               </div>
+            </div>
+            <div type="substance">
+               <p>The <hi>Substance</hi> of the Text hath three words to be opened,</p>
+               <p n="1">1. <hi>The Temple of God]</hi> He means not hereby the materiall Temple in <hi>Ieruſalem</hi> firſt or ſecond, nor the Tabernacle built in the wilderneſſe: but
+<pb n="4" facs="tcp:158449:7"/> the latter end of this verſe ſheweth clearly he means Chriſtians, <hi>which Temple are ye:</hi> every particular Chriſtian, <hi>every of you and ye,</hi> the Church of Chriſtians both then at <hi>Corinth,</hi> and alſo every where: not only the Chriſtian that hath truth of grace, and is ſo inwardly as well as out<g ref="char:EOLhyphen"/>wardly, but the Chriſtian by outward calling, for to theſe he wrote alſo, not only every particular member but chiefly the Church, the Society: This word <hi>ye</hi> referred to all in <hi>Corinth,</hi> called to be Saints, and to <hi>all in all the world, that call on the name of the Lord Ieſus Chriſt,</hi> doth fully evince thus much. They are called Gods Temple, (continuing the Metaphor of a build<g ref="char:EOLhyphen"/>ing) conſidered ſeverally, and in a Church-ſociety, with Relation to the typicall Temple, to ſhew that the truth of that type is now remaining.</p>
+               <p n="2">2. <hi>Defile, Deſtroy]</hi> The Greek word is but one; in divers tenſes it ſigni<g ref="char:EOLhyphen"/>fieth both to Defile and Deſtroy, to corrupt and violate, the Greek is thus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> The tranſlation would render the Originall more naturally, if we retained one Engliſh word, either thus: <hi>If any man defile the Temple of God, him ſhall God defile;</hi> or thus, <hi>If any man deſtroy the Temple, him will God deſtroy:</hi> It is an Elegancy, and not barely ſo, but pregnant in inſtruction, for it teacheth that the puniſhment of ſuch offenders ſhall be in juſtice pro<g ref="char:EOLhyphen"/>portioned to their offence, Defiling for defiling, violence for violence, degree for degree; if they'le be dilapidating, and corrupting Gods houſe, they ſhall have enough of it: God will dilapidate and corrupt them.</p>
+               <p n="3">3. If <hi>any man, him]</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>If any</hi> do it, <hi>that ſame man</hi> ſhall feel it, whoever he be, Teacher or hearer, of high eſteem for place in the Church, or for gifts and graces, <hi>this man</hi> God will certainly meet withall: this his ſin ſhall finde him out.</p>
+            </div>
+            <div type="doctrines">
+               <p>Now from hence ariſe three Doctrines worth; our through peruſall and attention.</p>
+               <p n="1">
+                  <label>1. <hi>Doct.</hi>
+                  </label> Every Chriſtian profeſſing the true Faith, much more every true Profeſſor of that true Faith, is the Temple of God: And every particular vi<g ref="char:EOLhyphen"/>ſible Church or Society of theſe Profeſſors, and the whole Church or univer<g ref="char:EOLhyphen"/>ſall ſociety of Chriſtians profeſſing the true faith are the Temple of God: This from the word <hi>Temple,</hi> in the ſenſe here uſed.</p>
+               <p n="2">
+                  <label>2. <hi>Doct.</hi>
+                  </label> Many there are, yea many within the viſible Church, that are defilers and Violaters of this Temple of God.</p>
+               <p n="3">
+                  <label>3. <hi>Doct.</hi>
+                  </label> God will certainly puniſh every and all the defilers and violaters of this his Temple, with puniſhments proportionable to their ſin in violating and defiling the ſame.</p>
+               <div n="1" type="doctrine">
+                  <p>For the firſt of theſe,</p>
+                  <p>Note the difference I put between a Profeſſor of the true Faith, and a true profeſſor of that true Faith: One may profeſſe the truth, and not truly pro<g ref="char:EOLhyphen"/>feſſe it, he may be a hypocrite in his profeſſion: A Profeſſor is viſible, and
+<pb n="5" facs="tcp:158449:7"/> profeſſion of the Faith may be diſcerned by men from profeſſion of falſhood; but a true Profeſſor, and the truth of his profeſſion is to be deſired and pray<g ref="char:EOLhyphen"/>ed for, but is not ſo eaſily diſcerned; God onely that ſearches the heart can infallibly judge of this.</p>
+                  <p>Again I uſe the word <hi>Society,</hi> as the Genus of a Church, not an <hi>Aſſembly;</hi> for a Church is no leſſe a Church when the Aſſembly is diſmiſſed, then when they are Aſſembled in the uſe of any Ordinance of God: Nor a <hi>Congrega<g ref="char:EOLhyphen"/>tion,</hi> that word is too narrow, it agreeth not to all the kindes, but the word Society, that agrees to a particular viſible Church, and to the whole viſible Church, to the Church in a houſe, the Church in a Village of one Congre<g ref="char:EOLhyphen"/>gation; the Church in a City, conſiſting of many Congregations, as the Church of <hi>Ieruſalem,</hi> of <hi>Epheſus,</hi> of <hi>Corinth:</hi> the Church in a Kingdom or Nation, committed to the profeſſion of the Faith of Chriſt: the Church in the whole world, the Church in her Officers gathered together to hear complaints; the Church in her Members aſſembled to worſhip and ſerve the Lord according to the Goſpel of Chriſt. It is weak and a poor quar<g ref="char:EOLhyphen"/>rell (my opinion is, it is ſo) to deny a <hi>National Church</hi> under the New Teſta<g ref="char:EOLhyphen"/>ment (for under the old its beyond all queſtion) and to plead there is no o<g ref="char:EOLhyphen"/>ther viſible Church then <hi>Congregationall.</hi> The Church at <hi>Ieruſalem</hi> was not Congregationall in that ſenſe; that is, it did not conſiſt of one Congrega<g ref="char:EOLhyphen"/>tion that could meet in one place, all the Members of it have one Paſtor preach to them at one time, and uſe other Ordinances of Worſhip, as the Sacrament of the Lords-Supper, Baptiſme, Publique Prayer, and fellow<g ref="char:EOLhyphen"/>ſhip together; twelve Apoſtles were not able to diſcharge to them the duty that belonged to the word and Prayer, without the help of ſeven Deacons to take off them the care of diſtributing of the Church-Almes, <hi>Act.</hi> 6. 1, 2, 3, 4. It is hard to make clear proof that the word <hi>Church</hi> in all the Hiſtory of the New Teſtament is given to a Congregation: I deſire to ſee it; And why may not a Nation profeſſing the Faith, be called a Church, as well as all the world of Profeſſors be called a Church? Why not now as well as under the Old Teſtament? The word Church is applicable to every Society of men that profeſſe the faith of our Lord Jeſus Chriſt. We read of Churches in the New-Teſtament, becauſe we have ſeverall Societies and Nations of men converted, and become the people of God.</p>
+                  <p>And whereas I hear of ſome that ſay, did ye ever hear of Nations conver<g ref="char:EOLhyphen"/>ted in the Scripture; thoſe be ſtrange converſions, the converſions of whole Nations? I anſwer, did you ever read the Scripture, and yet paſſe by thoſe famous propheſies concerning the Church under the New Teſtament: <hi>All Nations whom thou haſt made ſhall come and worſhip before thee, O Lord; And ſhall glorifie thy name,</hi> Pſa. 86. 9. Again, <hi>In the laſt dayes, the mountain of</hi>
+                     <pb n="6" facs="tcp:158449:8"/> 
+                     <hi>the Lords houſe ſhall be eſtabliſhed in the top of the mountains,</hi> &amp;c. <hi>Iſa.</hi> 2. 2, 3, 4. <hi>And all nations ſhall fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w unto it, and many people ſhall go, and ſay, Come ye and let us go up,</hi> &amp;c. <hi>And he ſhall judge among the Nations.</hi> And again, Zac. 8. 20, 21, 22. <hi>There ſhall come people and the inhabitants of many Ci<g ref="char:EOLhyphen"/>ties, and the inhabitants of one City ſhall go to another, ſaying, Let us go ſpee<g ref="char:EOLhyphen"/>dily to pray before the Lord, and to ſeek the Lord of Hoſts I will go alſo; Yea, many people, and ſtrong Nations ſhall come to ſeek the Lord, and pray before him:</hi> It is a ſtrange thing you ſay, The Lord ſpeaks of it indeed as a ſtrange work: <hi>Who hath heard ſuch a thing? Who hath ſeen ſuch things? Shall a Nation be born at once? Eſa</hi> 66. 81. Yet <hi>Zion</hi> doth ſo; To what purpoſe were that com<g ref="char:EOLhyphen"/>mand, <hi>Go teach all Nations, and Baptize;</hi> if a Nation might not receive the Goſpel and Baptiſme? or can any doubt of ſuch an effect of Preaching the Goſpel when Chriſt hath promiſed to his Miniſters preaching to Nations, that <hi>He will be with them to the end of the world:</hi> Who can deny whole Na<g ref="char:EOLhyphen"/>tions imbracing the Goſpel, that have not loſt their ſenſes: the Nation of <hi>England</hi> at this day, and the Nation of <hi>Scotland</hi> profeſſe the truth of Chriſt, and now in their repreſentative bodies are all for Reformation, for the power of godlineſſe, for the rooting out of Popery, Hereſie, Schiſme, Prelacy, Prophaneneſſe, and in this work count not their lives and livelyhoods dear unto them: Moreover ſince I am upon this point, let me propoſe this Ar<g ref="char:EOLhyphen"/>gument for a Nationall Church.</p>
+                  <p>He that hath all power given to him of God in Heaven and earth, and out of the fulneſſe of that power, ſaith, Teach all Nations, and Baptize them, and promiſeth his preſence to the World, and to make the Nations obedient to the Faith, and to receive the Goſpel and Baptiſme, doth in ſo doing ſet up properly one Church of all the Nations in the world; that receive the Go<g ref="char:EOLhyphen"/>ſpel and Baptiſme, and make Nationall Churches of the ſeverall Nations that receive the Goſpel and Baptiſme.</p>
+                  <p>But Jeſus Chriſt hath all power given him of God, in Heaven and Earth and out of the fulneſſe of that power, ſaith, <hi>Teach all Nations, and Baptize them;</hi> and promiſeth his preſence to the worlds end, to make the Na<g ref="char:EOLhyphen"/>tions obedient, and to receive the Goſpel and Baptiſme.</p>
+                  <p>Therefore IESVS CHRIST doth in ſo doing, ſet up one Church of all Nations that receive the Goſpel and Baptiſme, and make Nationall Churches of the ſeverall Nations that receive the Goſpel and Baptiſme.</p>
+                  <p>I have degreſſed ſomewhat, but let it paſſe: Whether there be a Natio<g ref="char:EOLhyphen"/>nall or Congregationall Church or no; this is ſure, every Society of Chri<g ref="char:EOLhyphen"/>ſtians profeſſing the true Faith is a Church, and the Temple of God; which
+<pb n="7" facs="tcp:158449:8"/> now we come to prove, for that is requiſite that both branches of the firſt Doctrine be made good by clear Scripture.</p>
+                  <p>The fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, that every Chriſtian profeſſing the true Faith, eſpecially the true Profeſſor, is Gods Temple; read the 16. verſe of this Chapter, and <hi>chap.</hi> 6. 6. 19. Where the Apoſtle ſaith, <hi>Know ye not that ye are the Temple of God?</hi> What, know you not this? Every Chriſtian (profeſſion anſwereth our out<g ref="char:EOLhyphen"/>ward call) is called to this honour to be Gods Temple; this is the dignity to which ye are called, Chriſtians, this is your high and holy calling; And the true Chriſtian is ſo indeed.</p>
+                  <p>For the ſecond Branch of the Doctrine; That the viſible Church is Gods houſe, beſides this Text, the ninth verſe of this Chapter is full; <hi>We are labourers together with God</hi> (ſpeaking of Gods M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iſters; and then of the Hearers and Profeſſors) ye are Gods building: The whole Church, and every particular Church is Gods Temple, as is moſt apparant by that in <hi>Epheſ.</hi> 2. 21, 22. in <hi>ver.</hi> 21. Speaking of the whole Church, bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of Iewes and Gentiles he ſaith, <hi>In whom</hi> (that is, in Ieſus Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt) <hi>all the building fuly framed together, groweth unto an holy Temple in the Lord,</hi> in ver. 22. Speak<g ref="char:EOLhyphen"/>ing of the viſible Church at <hi>Epheſus,</hi> he proceeds and ſaith, <hi>In whom</hi> (that is, in Chriſt Ieſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) <hi>you alſo are builded together, for an habitation of God through the Spirit.</hi>
+                  </p>
+                  <p>To unfold this a little:</p>
+                  <p>The Temple Materiall had a double uſe, a <hi>Morall,</hi> and a <hi>Ceremoniall;</hi> the <hi>Morall</hi> Uſe was this, it was the place of Publique Aſſemblies, the place of Publique Prayer and Preaching of the word; ſo the Synagogues in ſeverall Towns among the Iewes, were the houſes of God: The Pſalmiſt complains, <hi>They have burnt up all the Synagogues of God in the land: Pſa.</hi> 74. 8. Our bleſſed Saviour and the Apoſtles taught the word in the Temple and Sy<g ref="char:EOLhyphen"/>nagogues: The Goſpel was there on mount <hi>Zion</hi> to take its beginning: And thus there be, and ought to be in every ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tled Chriſtian State.</p>
+                  <p>
+                     <hi>Houſes for Publique worſhip,</hi> and the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are the <hi>houſes of God,</hi> they may be called <hi>Churches;</hi> the Apoſtle calls the Publique place of Chriſtian Aſſemblies, the <hi>Church,</hi> ſaying, <hi>When you come together in the Church;</hi> and again, <hi>What, have ye not Houſes to eat and to drink in? Or deſpiſe ye the Church of God, and ſhame them that have not?</hi> The Church is oppoſed to their private houſes, the uſe of which was to eat and drink in, but the uſe of the Church was to wor<g ref="char:EOLhyphen"/>ſhip God in: What ſenſe can there be in theſe words, if place be not oppo<g ref="char:EOLhyphen"/>ſed to place? The word <hi>Synogogu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſignifies an Aſſembly, <hi>Iam.</hi> 2. 2. yet the publique places where the Aſſemblies of the Iewes, met for the Word and Prayer, The holy Ghoſt calls <hi>Synagogues;</hi> the Chriſtian Aſſembly is called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> a Church, and the publique place of ſuch an Aſſembly,
+<pb n="8" facs="tcp:158449:9"/> is by the ſame ſpirit, and rightly by true Chriſtians called a Church.</p>
+                  <p>It is baſe, and from a ſpirit of foul-tonguedneſſe, to call it a ſteeple-houſe; it is a familiar trophe, and moſt ſignificant to call the thing containing by the name of the thing contained: And on the contrary, do you not ſay ſignifi<g ref="char:EOLhyphen"/>cantly, the Pot boiles, when you meane the Broth in the Pot: And you have not bread to finde your houſe: And we call thoſe publique places of Iudi<g ref="char:EOLhyphen"/>cature where publique Courts uſe to be kept, by the names of thoſe Courts, as the Common-Pleas, the Chancery, the Court of Wards; it is no abuſive or improper ſpeech.</p>
+                  <p>That <hi>Place</hi> is <hi>Publique,</hi> whereunto any one may reſort, without leave of any, and without danger of being a treſpaſſer, and liable to an action of Treſpaſſe: Such is this place we are now in, but ſuch is not this or that mans Houſe, Parlour or Barne: Chriſt requireth, and loveth the publike: Wiſdom cries without, in the ſtreets, in the chief place of concourſe, in the opening of the ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, <hi>Prov.</hi> 1. 20. 21. Though the private meetings of Chri<g ref="char:EOLhyphen"/>ſtians, uſed Chriſtianly have a promiſe, yet Gods glory and power was ne<g ref="char:EOLhyphen"/>ver ſo ſeen there, as in the publique, <hi>Pſa.</hi> 63. 2. nor have they ſuch a promiſe, <hi>Mat.</hi> 28 20, 21 And publique Ordinances are for the publique, not for the private; thus of the Morall uſe of the Temple: The <hi>Ceremoniall</hi> uſe, was for Sacrifice, for receiving all the inſtruments and furniture of the worldly Sanctuary in all it was, for ſignification and for ſhadow; ſo the thing ſig<g ref="char:EOLhyphen"/>nified, the truth remains though there be no Temple.</p>
+                  <p>God hath now four Temples, Heaven; the Heaven of the bleſſed, <hi>Heb.</hi> 8. and 9. <hi>Heb.</hi> 9. 11. Chriſt, <hi>Ioh.</hi> 2. 21. the Chriſtian; the Church. The two laſt are meant in this Text.</p>
+                  <p>See, beloved, your calling, your dignity; it is no ſmall moment, to preſerve from all manner of ſin; if we knew our dignity, we would not debaſe our ſelves; we would avoid all unworthy acts, all carriage that is below us: this is your dignity, every Chriſtian is Gods Temple, the true Temple the ſubſtance of that ſhadowiſh Temple: The Temple had four things con<g ref="char:EOLhyphen"/>ſiderable.</p>
+                  <list>
+                     <item>1. <hi>The Fabricke.</hi>
+                     </item>
+                     <item>2. <hi>The Furniture.</hi>
+                     </item>
+                     <item>3. <hi>The Glory.</hi>
+                     </item>
+                     <item>4. <hi>The Miniſtery that ſerved there.</hi>
+                     </item>
+                  </list>
+                  <div n="1" type="subsection">
+                     <head>1. <hi>For the Fabricke,</hi>
+                     </head>
+                     <p n="1">1. There were the doors, or Porch, the gates very glorious: Theſe ſig<g ref="char:EOLhyphen"/>nified the hearts of the faithfull made glorious by faith to receive Ieſus Chriſt, <hi>Pſa.</hi> 24. 8, 9. <hi>Rev.</hi> 3. 20.</p>
+                     <p n="2">2. There was the holy place, and the holy of holies anſwerably.</p>
+                     <p n="1">1. The bodies of Chriſtians are Gods Temples, his holy place, 1 <hi>Cor.</hi> 6. 19.</p>
+                     <p n="2">
+                        <pb n="9" facs="tcp:158449:9"/> 2. The Soules of the humble, and poor in ſpirit, that tremble at Gods word, are the holy of holies, or the moſt holy place, <hi>Iſa.</hi> 66. 1, 2.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. <hi>For the Furniture.</hi>
+                     </head>
+                     <p n="1">1. The mercy-Seat, or propitiatory is Chriſt and his blood apprehended by faith, as the Apoſtle ſaith, <hi>Rom.</hi> 3. 25. God ſet forth Ieſus Chriſt to be a Propiti<g ref="char:EOLhyphen"/>atory<note n="“" place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> 
+                           <hi>Properly notes the inſtrument of propitiation, and fitly agrees to Chriſt by whom God is appeaſed and pacified.</hi>
+                        </note> through faith in his blood, by faith is Chriſt brought into, and dwells in our hearts: Faith in Chriſts blood; is that which ſets up this Mercy-ſeat in the Temple of every particular Chriſtians heart: Chriſt by Faith in his blood is the Propitiatory, he that believeth in Chriſt to have Redemption, Remiſſion, and ſalvation only through his blood ſprinkled and applied to his ſoul and conſcience by Faith, and therefore draweth near, layeth hold on Chriſt, and applyeth his death and ſacrifice unto himſelf, he hath the Mercy-ſeat ſet up in his ſoul: otherwiſe though there be a Chriſt, though there be blood for expiation; though both Chriſt and his blood be propoſed of God, yet there is no Temple nor Mercy-ſeat ſet up to thee, or me, becauſe thou haſt not, or I have not this Faith in Chriſts Blood.</p>
+                     <p>This Propitiatorie, <hi>Ex.</hi> 25. 17. 1 <hi>Kin.</hi> 8. 9. <hi>Heb.</hi> 9. 4. or <hi>Golden Cover</hi> was put above upon the Ark of the Teſtimony, which Ark was a Coffer in which was put the two Tables of ſtone, in which the Law was written, this Ark was the Symbole of Gods gracious preſence among the people of the Iews, it was made of Shittim-wood, overlaid within and without of pure gold. Two Cherubims covering the Mercy-ſeat with their wings were ſet on the two ends of the Mercy-ſea; from above this Mercy-ſeat, from between theſe Cherubims God gave his Oracles &amp; Anſwers, and he was known and prayed unto under this name and notion; O thou that dwelleſt between the Cherubims; <hi>Pſ.</hi> 80. 1. this ſignified God in Chriſt reconciling the world to himſelf, not imputing the tranſ<g ref="char:EOLhyphen"/>greſſions &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſpaſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s againſt his holy Law, but accepting their perſons &amp; im<g ref="char:EOLhyphen"/>perfect obedience to his Commandments preſented to him through Chriſt the Mediator, and in Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt, beholding them with favour &amp; acceptation, &amp; paſſing by their ſins, as expiated &amp; covered, in whom alſo their Prayers are heard, an<g ref="char:EOLhyphen"/>ſwers are given to them, their hearts find &amp; feel him teaching &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uling them; &amp; the holy Angels attend on the<g ref="char:cmbAbbrStroke">̄</g>, guard them<g ref="char:punc">▪</g> &amp; are their miniſters; now in the believer this preſence of <hi>God</hi> in Chriſt on a throne of grace is ſet up in his heart.</p>
+                     <p n="2">2. The Altar of incenſe placed before the vaile that was by the Ark, be<g ref="char:EOLhyphen"/>fore the Mercy-ſeat, <hi>Ex.</hi> 30. 1. 6. 2. This ſignified Chriſts interc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſion, and the Golden Cenſer, and Odours of his meritorious ſacrifice, with which he appears before God, as our high Prieſt, <hi>Rev.</hi> 8. 3. this Altar, Cenſer, Odours, and high Prieſt; the Believer through the word of Faith even the Goſpel receiving and imbracing, preſents himſelf, and all he doth to God there<g ref="char:EOLhyphen"/>with, that God may ſmell a ſavour of reſt towards him; he offereth
+<pb n="10" facs="tcp:158449:10"/> all to God in Chriſts name, in the hands of this conſecrated Prieſt, and on this Altar that can ſanctifie his gift, he puts his prayers into this Golden Cenſer. The vertue alſo of Chriſts interceſſion is in him in the ſpirit of Prayer.</p>
+                     <p n="3">3. The Altar of burnt-offering, ſignified Chriſt bearing our ſins, and making reconciliation, in whoſe ſacrifice of himſelf a whole burnt-offering, is found ful ſatisfaction, a perfect ranſom and price, &amp; plentuous and eternall Redemp<g ref="char:EOLhyphen"/>tion. This Altar, <hi>Heb.</hi> 13 10. <hi>&amp;</hi> 10 5. 8, 9, 10. is ſet up in the Chriſtian, who by Faith, preſents before God this Lamb and his Redemption for his Iuſti<g ref="char:EOLhyphen"/>fication, and while he apprehends this Redemption in his ſoul, offers, through Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt himſelf, a whole bhrut offering to God and all other his ſpirituall ſacrifices.</p>
+                     <p n="4">4. The Table of ſhew bread, on which were ſet new every Sabbath weekly twelve Cakes with pure incenſe, repreſenting the twelve Tribes of I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l which ſtood on the Table continually before the Mercy-ſeat in the preſence of God, which as it ſignifieth the gracious favour and the eyes of God in Chriſt over the righteous, ſo alſo how the Chriſtian liveth conti<g ref="char:EOLhyphen"/>nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lly, as in the preſence of God, reconciled, and reconciling him to him through Chriſt: his heart ſaith with <hi>David,</hi> Thy loving kindneſſe is before mine eyes, <hi>Pſa.</hi> 26. 3. and I have walked in thy truth. And this conſtant pre<g ref="char:EOLhyphen"/>ſence as before God reconciled only through the blood of his Son, raiſeth the incenſe and ſweet odours of holy motions preſented alſo before God in Chriſt continually, and look as God feedeth him with Chriſt the bread of life, and furniſheth a Table be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ore <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m, ſo the Believer keeps a furn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhed Table, <hi>Cart.</hi> 1. 12. <hi>&amp;</hi> 7. 12 <hi>&amp;</hi> 8. 2. of the fruits of the Spirit in which God in Chriſt is delighted, this Table ſtood on the North-ſide in the Ta<g ref="char:EOLhyphen"/>bernacle.</p>
+                     <p n="5">5. The Candleſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ck of pure Gold, with ſeven Lampes burning was on the South-ſide right againſt the Table of Shew bread. This is the Word of God, written in the heart of the true Chriſtian, burning and ſhining in ſa<g ref="char:EOLhyphen"/>ving knowledge, with the ſeven lampes of his ſpirit, even manifold gifts and graces: in the light of this Word ingrafted, by which the Holy Ghoſt dwels in them, they ſerve God in Chriſt with their ſpirits in the Goſpel.</p>
+                     <p n="6">6. The Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>zen Laver to w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſh in, is the very fountaine of godly ſorrow, and of renewing grace, <hi>Eſa,</hi> 1. 16. <hi>Pſal.</hi> 26. 6. <hi>Act.</hi> 26. 18. the ſpirit of ſanctification, which is opened in the heart of a beleever; it is the ſanctifi<g ref="char:EOLhyphen"/>cation in them by faith which is in Ieſus Chriſt, whereby their ſoules are ſprinkl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d from an evill conſcience, and their bodies waſhed with cleane water, that ſo they may draw neare with a true heart in full aſſurance of faith, <hi>Heb.</hi> 10. 20.</p>
+                     <p>This is the furniture of Gods houſe.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <pb n="11" facs="tcp:158449:10"/>
+                     <head>3. <hi>For the Glory.</hi>
+                     </head>
+                     <p>The Glory that fills this houſe of God, is God in the preſence of his Grace, as the Apoſtle ſaith, <hi>Ye are the Temple of the living God,</hi> as God hath ſaid, <hi>I will dwell in them, and walke in them, and I will be their God, and they ſhall be my people,</hi> 2 <hi>Cor.</hi> 6. 16.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <head>4. <hi>For the Miniſters.</hi>
+                     </head>
+                     <p>The Miniſters that ſerve in this houſe, they are beleevers, they are both the Temple and the Prieſts, as the Apoſtle <hi>Peter</hi> ſaith, coming unto Chriſt, <hi>Ye are built up a ſpirituall houſe, an holy Prieſthood, to offer up ſpiri<g ref="char:EOLhyphen"/>tuall ſacrifice, acceptable to God by Ieſus Chriſt,</hi> 1 Pet. 2. 4, 5.</p>
+                     <p>In theſe foure reſpects is the beleever the Temple of God, and every one that is called, though but outwardly, is called, that he might be a partaker of this heavenly honour, of which honour, unbeliefe and impenitency doe deprive him. Who can ſufficiently expreſſe the Dignity of the true belee<g ref="char:EOLhyphen"/>ver, who can ſufficiently bewaile the ſtate of the Chriſtian that is ſo only in profeſſion, who while he ſeemes to give himſelf to God in words, keepes his heart a ſtye for Sathan, keeps open houſe for the Devill.</p>
+                     <p>Thus we ſee how every Chriſtian is Gods Temple.</p>
+                     <p>The Church is alſo Gods Temple, even the Church viſible. It is true, that as the Temple and Tabernacle had three parts, the outer Court for the people, the Holy Place where the Prieſts did their Office, and the Holy of Holies into which the High Prieſt only entred; ſo they did type out the viſible Church as the outer Court, where are good and bad; the Holy Place, the true Saints and Beleevers, and Heaven the Holy of Holies. But here the viſible Church, in the whole and in every particular viſible Church is called the Temple of God.</p>
+                  </div>
+                  <div n="1" type="subsection">
+                     <head>1. <hi>For the generall qualities, or adjuncts.</hi>
+                     </head>
+                     <p n="1">1. <hi>Vnity;</hi> There was but one Temple, ſo the Church is one, <hi>Cant.</hi> 6. 9. There is but one body, 1 <hi>Cor.</hi> 12. 12. though there be diverſities of gifts, of operations, and of adminiſtrations, though there be divers members: this diverſity makes for Unity, for if they were all one member where were the body, 1 <hi>Cor.</hi> 12. 19. unto every one is given ſome meaſure of Grace from Chriſt the Head, which being improved in our fit and proper place in the body, according to the effectuall working in the meaſure of every part maketh increaſe of the body, unto the edifying of it ſelfe in love, <hi>Epheſ.</hi> 4. 4. 7. 16. Diverſity of gifts makes for growth, as well as for unity, if love with lowlineſſe and meekneſſe doe act and carry us.</p>
+                     <p n="2">2. <hi>Sanctity,</hi> The Temple of God is holy, ſo the Church are a ſociety or community ſeparated from the world; they are <hi>without,</hi> we have nothing to doe to judge them; that is, to proceed with them that are the <hi>fornicators</hi>
+                        <pb n="12" facs="tcp:158449:11"/> 
+                        <hi>of this world,</hi> or the covetous, or the like with Church-cenſures: Theſe are <hi>within,</hi> theſe that are <hi>called Brethren,</hi> and are yet fornicators, or covetous, or Idolater<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, or drunkards, or ſuch like: theſe that are <hi>fornicators of the Church,</hi> theſe we judge. If we doe neglect this Diſcipline, the Apoſtle doth not ſay, ſeparate you that are Saints indeed, ſet up a new Church, but blames us, ſaying, <hi>Doe not ye judge them that are within?</hi> 1 <hi>Cor.</hi> 5. 12. and in<g ref="char:EOLhyphen"/>joynes <hi>reformation,</hi> not a <hi>ſeparation</hi> for ſuch a fault, ſaying, Therefore put away from among your ſelves that wicked Perſon. It is a lamentable thing to read in the Church of <hi>Corinth,</hi> the Temple of God which is holy, this mixture, brother Fornicator, brother Drunkard, brother Idolater, &amp;c. yet ſo it was<note n="“" place="margin">Aug. Tom. 7. cont. Ep. Parmen. l. 2. c. 1. <hi>Quiſquis vel quod poteſt arguendo corrigit, vel quod corrigere non poteſt, ſalvo pacis vinculo exclu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>it, vel quod ſalvo pacis vinculo excludere non poteſt, aequitate improbat, firmitate ſupportat, hic eſt pacificus, &amp; ab iſto maledicto immunis quod Scriptura dicit, vae his qui dicunt, quod nequam, eſt bonum, &amp; quod bonum, eſt ncquam.</hi>
+                        </note>, ſo it hath been in the Primitive pu<g ref="char:EOLhyphen"/>reſt times; if it be ſo now, be not ſo offen<g ref="char:EOLhyphen"/>ded, as to run out of your little wit, while you are running from pollution; run not from Gods Temple, while you flee the touching of the unclean thing; rather let your holi<g ref="char:EOLhyphen"/>neſſe be accompanied with love, your love with ſeverity, your ſeverity with tolerance and longanimity, your long-ſuffering with zeal, your zeal with compaſſion, and all with meekneſſe of wiſdome.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <head>2. <hi>For the Structure.</hi>
+                     </head>
+                     <p n="1">1. The Temple was built on mount Zion, which was firſt a ſtrong hold of the Jebuſites, but conquered and taken by <hi>David,</hi> was called the city of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and becauſe a mountain, therefore ſtrong and ſteddy. So Chriſt hath no Church but what he gets by ſpiritual conqueſt, they were before calling a Fort of Jebuſites, but our <hi>David</hi> ſubduing the ſtrong holds of Satan, brings them to God, the Rock of Ages, <hi>Iſ.</hi> 26. 4. <hi>Jer.</hi> 17. 5. 7. the only Iehovah, and on him, that is, on him, as he hath named &amp; revealed himſelf in his holy word, are they built.</p>
+                     <p n="2">2. The Temple had goodly foundations, ſo the Church is built on Chriſt the Foundation-ſtone, elect and precious, tryed and ſure, on whom, who<g ref="char:EOLhyphen"/>ſoever beleeveth, ſhall never be confounded. It is built on the foundation of the Apoſtles and Prophets, (Apoſtles are the higheſt Office and Calling that ever was in the Church, and therefore named firſt) not upon their Perſons, but upon their Doctrine, called the foundation, becauſe it layeth Chriſt the Foundation, and layeth him out, and ſets him in his proper place, to the full, in two ſorts of fundamentall truths, the Law and Goſpel; or as it is in <hi>Re<g ref="char:EOLhyphen"/>vel.</hi> 14. 12. The <hi>Commandments of God,</hi> and the <hi>faith of Jeſus:</hi> The Church is the Communion of Saints, that keepeth theſe two: This is the Zion of God, oppoſed to Antichriſtian Babylon: There is not a clearer Text in all the Bi<g ref="char:EOLhyphen"/>ble, nor more lively diſtinguiſhing, it concerns our dayes; well is this
+<pb n="13" facs="tcp:158449:11"/> Book of Propheſies called the <hi>Revelation,</hi> not onely becauſe it opens and re<g ref="char:EOLhyphen"/>veals the Propheſies of things to come, all Propheſies; but alſo becauſe it carries ſuch beams and rayes of lightſome doctrinall truth, wherewith it is beſpangled, and ſhines in ſeverall parts of it, to enlighten the times which the Propheſies concern.</p>
+                     <p n="3">3. The walls of the Temple were conjoyned by corner-ſtones: Chriſt Ieſus is the chief corner ſtone, that holds both parts of this ſpirituall buil<g ref="char:EOLhyphen"/>ding, both Iews and Gentiles that are called, faſt together, ſo that they do concorporate, <hi>Eph.</hi> 3. 6.</p>
+                     <p n="4">4. The ſeverall ſtones in this Temple, or curtains, with tapes, and loops, and tenons, poſts and ſockets, are the ſeverall members variouſly gifted, and yet united in the unity of profeſſion, and of the ſpirit, and of faith, and of Baptiſme, and in the bond of Peace.</p>
+                     <p n="5">5. The outer and inner coverings are the double condition of the Church, the inward, <hi>Pſal.</hi> 45. 14. comely and glo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ious; the outward, black, and tann'd with afflictions and perſecutions, <hi>Cant.</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 5.</p>
+                     <p n="6">6. The Temple had pillars and walls; and the viſible Church, in reſpect of the Miniſtery of it, is the pillar and ground of truth, 1 <hi>Tim.</hi> 3. 17 <hi>Gal</hi> 2. 9. <hi>Col.</hi> 2. 19. The Officers and Members in the Church, are the ſuſtainers of the fabrick and the body.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>3. <hi>But for the Furniture chiefly is the Church of God, his holy Temple. For.</hi>
+                     </head>
+                     <p n="1">1. There being retained, held, and held forth, the Doctrine of Reconci<g ref="char:EOLhyphen"/>liation by Chriſt alone, that one Mediatour, that God is onely to be found gracious to a ſinner in Chriſt, fully ſatisfied in his blood, which is belonging to no ſinner, but to him that beleeveth; here is the true Mercy-ſeat, God in Chriſt: We need not ſay, O thou that dwelleſt between the Cherubims! but know, and pray to God, as the God &amp; Father of our Lord Ieſus: Here being taught, that Chriſt is true God and true Man in one Perſon; here is the Ark over laid with gold, the true fleſh of Chriſt, under which his God-head was covered, is the Vail between the Holy-place, and the Holy of Holies.</p>
+                     <p n="2">2. The Doctrine of Chriſts ſacrifice on the Croſſe, and of his interceſſion in heaven, is both the Altars, the Altar of whole burnt-offering, and the Altar of incenſe.</p>
+                     <p n="3">3. The Tables of the Covenant in the Ark, the Manna, and Aarons rod by it, this is in the Church that ſets up Chriſt, the Bread of Life, the onely Pro<g ref="char:EOLhyphen"/>phet that teacheth to profit, and the high Prieſt over the houſe of God, whom we ought to obey.</p>
+                     <p n="4">4. The Candleſtick, is the light of the Word, the Law and Goſpel, that all in Gods houſe may walk in the light of the Lord, and ſee to do his work.</p>
+                     <p n="5">
+                        <pb n="14" facs="tcp:158449:12"/> 5. The Laver is the Doctrine of Regeneration and Iuſtification by Chriſts blood and ſpirit.</p>
+                     <p n="6">6. The Golden Inſtruments and veſſels for Incenſe-offering, and ſprink<g ref="char:EOLhyphen"/>ling with the reſt, are the gifted Miniſters, gifted with paſtorall and teaching aptneſſe and abilities, and ſanctified for the applying of Chriſt and his bene<g ref="char:EOLhyphen"/>fits by their Miniſtery, which gifts Chriſt giveth; but the Church upon due triall acknowledgeth, owneth, receiveth, confirmeth with her teſtimony, and honoureth.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <head>4. <hi>For the glory inhabiting there.</hi>
+                     </head>
+                     <p n="4">4. God in Chriſt is there, giving the bleſſing and life: The name of that City is Iehovah-Shammah, <hi>Ezek.</hi> 48. 35. or, The Lord is there.</p>
+                  </div>
+                  <div n="5" type="subsection">
+                     <head>5. <hi>For the cover on it all.</hi>
+                     </head>
+                     <p n="5">5. There is over every ſuch aſſembly, and over the whole Zion of God, <hi>Iſa.</hi> 4. 5, 6. a ſpeciall Protection, a ſpeciall Direction, and a ſpeciall ſafety to them that ſhrowd there from the heat, and from the ſtorm: This is the de<g ref="char:EOLhyphen"/>fence upon all the glory.</p>
+                     <p>Now from this branch of the Doctrine, and from this true and plain ex<g ref="char:EOLhyphen"/>plication of the ſame, we may deſcribe, or direct to the infallible note of the true Church on earth, and of a true particular viſible Church.</p>
+                     <p n="1">1. Where ever Ieſus Chriſt is held for the foundation and corner-ſtone, and the Doctrine of the Prophets and Apoſtles touching the faith of Ieſus, and the Commandments of God that concern holineſſe and righteouſneſſe, there is the true Church, <hi>Epheſ.</hi> 2. 19, 20. What ever Society of men, aſſocia<g ref="char:EOLhyphen"/>ting in a religious way, do hold Chriſt and the Prophets and the Apoſtles Doctrine for faith and holineſſe, that Society is a particular viſible Church, <hi>Epheſ.</hi> 2. 22.</p>
+                     <p n="2">2. In what ever particular Society, religious, there is to be found all the furniture of the Temple (all the glory, the Mercy-ſeat, the two Altars, the Table of Shewbread, the Candleſtick, the Laver) that is a true particular viſible Church. It is the Temple of God, therefore the Church of God. Who can deny that that is Zion, where it can be truly ſaid, the Tabernacle of God is with theſe men.</p>
+                     <p>Behold, he dwelleth with you, you of <hi>Kingstone,</hi> for of you it may truely be ſaid, Behold the Tabernacle of God is with men.</p>
+                     <p>And to remove all things that may miſlead your judgements, let us looke upon that Propheſie in <hi>Rev.</hi> 11. 1. and forwards to v. 14. It concernes the ſtate of the Church during the reigne of Antichriſt, in which Propheſie, ſo farre as pertaineth to our preſent purpoſe two things are beyond all doubt, and the more to be heeded. Firſt, that the outer Court, and the Holy City, that is, the Church viſible is given to the Gentiles, even the Antichriſtian, or Popiſh Gentiles, and they ſhall tread it under foot forty and two
+<pb n="15" facs="tcp:158449:12"/> moneths, which is, one thouſand two hundred and ſixty daies Propheticall, that is, ſo many yeares; this is the time of Antichriſts reigne. Secondly, that this is the time and ſpace in which the two witneſſes, that is, the ſmall but ſufficient number for teſtimony to confirme any truth; I ſay the ſmall num<g ref="char:EOLhyphen"/>ber of Chriſts faithfull Miniſters (for theſe two witneſſes are expreſly cal<g ref="char:EOLhyphen"/>led <hi>two Prophets,)</hi> v. 10. and their worke is expreſly and preciſely named to be <hi>Prophecying,</hi> v. 3. Now the Magiſtrate and his worke, by the ſword and Edicts is never in all the Bible called by theſe names, the Scripture appropri<g ref="char:EOLhyphen"/>ates this manner of witneſſing to the Goſpell, and againſt errours, to the Miniſters and their worke alone, which is <hi>Preaching of the Goſpell,</hi> Mark 16. 15. 1 Cor. 1 17. if this be not the work of their Office, they have no work; Chriſt ſends them to Preach, and in compariſon of this, not to Baptize) this ſmall number is to Propheſie in ſack-cloth.</p>
+                     <p>Now this time being not expired, for Antichriſt is not yet deſtroyed, the ſeven V<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ls are but in pouring out, the ſtate of the viſible Church is this, to be inf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſted and polluted dive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſly with many Gentiles, as we ſee by wofull experienc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>; there is no Proteſtant Church in the chriſtian world but is miſe<g ref="char:EOLhyphen"/>rably trodden upon at this day by Papiſts, their bloudy rage, their errours, and ſuperſtitious inventions, the errours of other Hereticks and Schiſmaticks; all which are appertaining unto, and are of the frye of Antichriſt, as the Apoſtle <hi>Iohn</hi> ſaid of the errours of his time; there are many Antichriſts al<g ref="char:EOLhyphen"/>ready: to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tered, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd torn, and ſoyled will be the face of the viſible Church untill Antichriſt be down. Againe, the number of faithfull Miniſters will not be very great, nor their eſtate any other then a ſtate of mourning; they ſhall yet Propheſie in ſack-cloth, even ſo long till the one thouſand two hundred and ſixty daies or yeares be accompliſhed; they that ſay otherwiſe ſhift as they can, they will feele this to be a truth, for the time of this burden is not yet expired. Is Antichriſts reigne expired when Papiſts ſo ſwarme, ſo pre<g ref="char:EOLhyphen"/>vaile with many Kings that are Proteſtant, that they waſte Germany, Ire<g ref="char:EOLhyphen"/>land, Scotland, England, beſides other parts, and yet the Pope ſits in Rome?</p>
+                     <p>I ſhall adde here but that of learned and godly <hi>Chemnitius</hi> in his Com<g ref="char:EOLhyphen"/>mon Places.<note n="“" place="margin">Chemnit. Loc. Theol. De Eccleſ. loco. cap. 3. Sect. 3. <hi>Miſer caetus, in qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> multae ſunt infirmitates, quoque non tan<g ref="char:EOLhyphen"/>tum perſecutionibus &amp; cruce premitu, ſed etiam offendiculis &amp; ſcandalis de<g ref="char:EOLhyphen"/>formatur.</hi>
+                        </note> That the Church may be a miſerable Society, or company, in which there are many infirmities, and which is not only preſſed with Perſecutions and the Croſſe, but alſo is deformed with ſtum<g ref="char:EOLhyphen"/>bling-blocks and ſcandals; of which we ought not to judge by the outward ſhew, but by and according to the Word. The Church Viſible is the company of thoſe that imbrace Chriſts Goſpell, and rightly uſe his Sacraments, in which company God by the Mi<g ref="char:EOLhyphen"/>niſtery
+<pb n="16" facs="tcp:158449:13"/> of the Word workes powerfully, and regenerates many to life eter<g ref="char:EOLhyphen"/>nall, in which ſociety notwithſtanding, there are many,<note n="“" place="margin">Et Sect. 5. 2 Tim. 2. 20. <hi>In Eccleſiae caetu multi ſunt non ſancti.</hi>
+                        </note> 
+                        <hi>Non-ſancti,</hi> not holy, but yet con<g ref="char:EOLhyphen"/>ſenting with the godly in the point of true Doctrine. Thus of the firſt Doctrine.</p>
+                  </div>
+               </div>
+               <div n="2" type="doctrine">
+                  <p>The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>econd Doctrine is this, That there are many, yea many within the viſible Church, that are defilers and violaters of this Temple of God. If it had not been ſo, in vaine had been the Apoſtles reaſoning; if it would not be ſo, in vaine were this ſentence written and left regiſtred in the Canon of the New Teſtament. The Apoſtle did not deale this blow in the ayre, and fight with ſhadowes; and that we may not ſo doe, and only beate the ayre and loſe our labour, let us inquire who are they that ſtand guilty of this ſin; the thing is filthy and odious, and no man will willingly owne it though he will not be taken off but will willingly doe it. To come then to charge the guilt of this great ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon the particular offenders.</p>
+                  <div n="1" type="subsection">
+                     <p n="1">1. <hi>All ſcandalous Chriſtians.</hi> I begin with you, for though you are not the firſt intended by the Apoſtle in this Text, yet you deſervedly goe in the front, you make and cauſe others to defile and wrong the Church by Schiſmes. The offence you give makes them forſake the fellowſhip of the Church of God, to which you doe belong, you are many waies guilty of this Temple-pollution, for the preſent you may be ranked into three ſorts.</p>
+                     <p n="1">1. Fornicators, Adulterers, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffeminate and uncleane perſons, theſe defile their owne bodies, 1 <hi>Cor.</hi> 6. 15, 18, 19. they take the member of Chriſt and make it the member of an Harlot; theſe defile the Church of God: this is a Leaven, a little of which leaveneth the whole lumpe, 1 <hi>Cor.</hi> 5. 6. it is a leaven to be purged ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> by Church-cenſures.</p>
+                     <p n="2">2. The Covetous, Raylers, Ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ortioners, Drunkards, Theeves, Swearers, that feare not an O<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h, the prophane, unholy, malicious, and all unrighte<g ref="char:EOLhyphen"/>ous perſons, theſe make Gods houſe a d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nne of Theeves; they that live in theſe and the like ſins againſt the holy Law of God, and yet come before him as his people, and cry, <hi>The Temple of the Lord,</hi> and reſt in the name and priviledges of Chriſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ans, theſe live as if they were delivered to doe thoſe abominations, <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r.</hi> 7. 4 8. they are abominable polluters of Gods Temple.</p>
+                     <p n="3">3. The Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll Hypocrites, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hat pretend the glory of God, and good of the Church, but under that colour drive a trade, <hi>Ioh.</hi> 2. 14, 15. of the Publiq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, and of godlineſſe make a m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rchandize for their own filthy lucre. Such a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e thoſe pretenders to Reformation now among us, that make up their private eſtates out of the Publique, being carried with ſelf-ſeeking; they dread not the ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mples of Councellors, Nobles, Iudges, Prelates, Gen<g ref="char:EOLhyphen"/>try, that now before their eyes lye under Gods avenging hand; their car<g ref="char:EOLhyphen"/>caſes,
+<pb n="17" facs="tcp:158449:13"/> for they are caſt out, and nought of them remaines but their dead contemned bulkes, and on them their Worme feedes and dyes not, and the fire is not quenched; theſe their miſerable carcaſes they may goe out and ſee, and looke upon the contempt that God hath and doth poure upon them, for the abuſing of their power to their owne luſts, and for making a prey of the Publique, and yet they greedily follow the way of ſuch Balaa<g ref="char:EOLhyphen"/>mites. All that are intruſted and imployed for the publique in this great ſervice of ſeeking Reformation, ſet them feare, leſt, if found in the like ſinne, they ſhould fall into greater condemnation. The Lord is a jealous God.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <p n="2">2. All that <hi>make Schiſmes and diviſions</hi> in the Church, (the context ſhew<g ref="char:EOLhyphen"/>eth this; theſe are properly and directly intended here by the Holy Ghoſt. In the Church of Corinth many ſtood guilty of this ſin, their factious ſtudies rented them into Sects. 1. By contentious ſiding, falling into parties accor<g ref="char:EOLhyphen"/>ding to their Teachers whom they affected, 1 <hi>Cor.</hi> 1. 12. 2. By affectation of humane wiſdome, and fooliſh admiration thereof in the Preaching of the Goſpell, <hi>Ch.</hi> 17. &amp; 2. 1. 4. 3. By building Heterogeneall ſtuffe, of a divers kind, and unſuitable, as wood, hay, and ſtubble, upon the foundation, <hi>Ch.</hi> 3. 12. 4. By undervaluing their faithfull Teachers, <hi>Ch.</hi> 4. 1. and neg<g ref="char:EOLhyphen"/>lecting their <hi>ſpirituall Father</hi> that had begotten them in Chriſt Ieſus, through the Goſpell, <hi>ver.</hi> 15. of <hi>Chap.</hi> 4. had you, ſaith the Apoſtle, ten thouſand in<g ref="char:EOLhyphen"/>ſtructers, yet I am your Father, you have not many fathers; this unnatural<g ref="char:EOLhyphen"/>neſſe in matters of Grace is found in ſome of this place; that Miniſter that begot you, you caſt off, he continuing in his integrity; and you heap to you inſtructers, yet I thinke not ſo many as yet that we ſhould reckon them by the thouſands. 5. By over-valuing themſelves, <hi>Ch.</hi> 4. 8. 10. in their owne conceit, they were full, rich, and reigned as Kings without their faithfull Teachers; they were wiſe, ſtrong, and honourable: now they were in the right, now their joyes and light abounded, but without us, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle; I would, ſaith he, yee did reigne, this their happy eſtate was but in their conceit.</p>
+                     <p>Theſe things made them be puffed up one againſt another, 1 <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> 4. 6.</p>
+                     <p>Of this ſin are they alſo guilty that fall under that admonition, in <hi>Rom.</hi> 16. 17. that make diviſions and offences contrary to the Doctrine of the Apo<g ref="char:EOLhyphen"/>ſtles; the Greek Prepoſition ſignifieth both contrary and beſides, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 
+                        <hi>Sig<g ref="char:EOLhyphen"/>nificat, praeter &amp; contra;</hi> the peace of the Church, and the purity of Do<g ref="char:EOLhyphen"/>ctrine is ſinfully violated by thoſe that <hi>divide,</hi> and <hi>lay ſtumbling blocks</hi> in the waies of Chriſtians, by contending for any thing that is againſt or beſides Scripture-truth. The Scripture is the Rule by which we diſcerne of Diviſion and offence-makers.</p>
+                     <pb n="18" facs="tcp:158449:14"/>
+                     <p> Schiſme is a ſin that ſtickes faſt: the Apoſtle ſpends in one Letter foure Chapters u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on it, for this diſcourſe begun in the firſt, is continued to the fifth Chapter. The greatneſſe of this ſin the Apoſtle ſheweth many wayes.</p>
+                     <p n="1">1. Schiſmes divide Chriſt; ſo this ſin is parricide. <hi>Is Chriſt divided?</hi>
+                     </p>
+                     <p n="2">2. Schiſme giveth Chriſts honour to another, ſo it is Sacriledge. <hi>Was</hi> Paul <hi>crucified for you?</hi>
+                     </p>
+                     <p n="3">3. It breakes our faith in Baptiſme, ſo it is perfidiouſneſſe. <hi>Were yee Bap<g ref="char:EOLhyphen"/>tized in the name of</hi> Paul? <hi>Chap.</hi> 1. <hi>v.</hi> 13.</p>
+                     <p n="4">4. It is a glorying in men, <hi>Chap.</hi> 3. 21. and to glory in men, that firſt proves men c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nall, for it fills men with envying, and ſtrife, and diviſions, and tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> is to walk as men, not as chriſtians, <hi>Ch.</hi> 3. <hi>v.</hi> 3, 4. <hi>Ob.</hi> Some of them were ready to ſay, Why ſpend you your time about this matter, why come you not to us with meat? we are ſtrong, we are ſpirituall, teach us ſome deep Myſteries, and hig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er Doctrines. <hi>Sol.</hi> The Apoſtle prevents this and layes it upon themſelves; their Rudity, their rawneſſe required his plaineſſe<g ref="char:punc">▪</g> they kept him to be laying of the Principles: his faithfulneſſe and Paſtorall diſcretion and wiſdome kept him faſt to this way of diſpenſing the Truth to them. Were they ſpirituall that thus ſtrove and ſtood divided? They were carnall, they were babes: the ſpoone was fitter for them then the knife, they were not fit to be their owne carvers, <hi>v.</hi> 1, 2, 3. Secondly, this glory<g ref="char:EOLhyphen"/>ing in men makes as if the Miniſters were Lords of our Faith, whereas they are but <hi>Miniſters,</hi> v. 5. Thirdly, it makes as if our profiting did depend on the Miniſters, whereas they are only planters and waterers: it is Gods gi<g ref="char:EOLhyphen"/>ving the increaſe that doth the deed, <hi>v.</hi> 6, 7. Fourthly, all Miniſters are but one, though ſome are gifted above others, ſome labour more than o<g ref="char:EOLhyphen"/>thers, they are all but Servants in one Worke, imployed in Tilling Gods Field, in building Gods Houſe, <hi>v.</hi> 8 9.</p>
+                     <p n="5">5. Schiſmes are of our owne ſpirit; the Spirit of God is not factious <hi>Ch.</hi> 3. <hi>v.</hi> 16.</p>
+                     <p n="6">6. They wrong Gods Temple, as in the text in hand, dividing it when it is but one, prophaning it when it is holy.</p>
+                     <p n="7">7. Schiſme is the bad effect of two evill cauſes: 1. Self-confidence, Anthadie, and boaſting, as the Apoſtles words ſhew: <hi>Let no man deceive himſelfe, if any man thinke he is wiſe, Acts</hi> 8, 9. 2. Vaine admiration upon vaine wiſedome, <hi>ver.</hi> 18. every one with <hi>Simon Magus</hi> would faine be <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> ſome great one.</p>
+                     <p n="8">8. It is derogatory both to the Chriſtians honour, and to Gods order, <hi>v.</hi> 21. All is the Chriſtians, he is Chriſts, and Chriſt is Gods.</p>
+                     <p>Thus <hi>Paul</hi> here ſets out the greatneſſe of the ſin of Schiſme and Diviſions, to which I ſhall adde but that one word of the ſame <hi>Paul,</hi> in <hi>Gal.</hi> 5. 19, 20.
+<pb n="19" facs="tcp:158449:14"/> that it is a manifeſt worke of the fleſh; <hi>the workes of the fleſh are manifeſt, which are diviſions.</hi> Their waies of deceit in ſowing diviſions are excellently deciphered in <hi>Rom.</hi> 16. <hi>v.</hi> 18. they are not eaſily diſcerned, for they paint with two colours; 1. They glory they are the <hi>Servants of our Lord Ieſus Chriſt.</hi> 2. They uſe <hi>good words, and faire ſpeeches,</hi> their tongues meere ſugar; bleſſing, Grace, goodneſſe in their lips with ſuch ſoberneſſe, gentleneſſe, meekneſſe, lowlineſſe, inſinuations of faire ſpeech, as one would not thinke but God and goodneſſe were confined to that ſort of people; theſe catch the ſimple, but indeed <hi>they ſerve their owne bellies;</hi> they have the teeth of Li<g ref="char:EOLhyphen"/>ons, with thoſe Locuſts, <hi>Rev.</hi> 9. 8. though they have the hair of women.</p>
+                     <p>Now this ſchiſmaticall ſpirit is in all things moſt dangerous, becauſe it agrees every way, and takes wonderfully with corrupt nature, which is full of ſelf-love, pride, and dotage.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <p n="3">3. <hi>All Hereticks;</hi> theſe ruine the foundation, thoſe before mentioned make rents in the walls and fabrick of the Church. Hereſie is worſe than Schiſme; that of our Apoſtle imports ſo much, where he ſaith, 1 <hi>Cor,</hi> 11. 18, 19. <hi>I heare that there be diviſions among you, and I partly beleeve it, for there muſt be alſo Hereſies among you.</hi> Alſo ſheweth that Hereſie is a greater evill than Schiſme, when he ſaith, there muſt be <hi>alſo</hi> or <hi>even</hi> Hereſies, he ſpeakes of ſomewhat more than that was ſignified by the word Schiſmes. Hereſie is an election or chuſing to ones ſelfe an opinion, not only contrary to the Doctrine delivered in Scripture, but alſo contrary to that Doctrine which is of the ſubſtance of faith and holineſſe. Hereſie is a perverſe Do<g ref="char:EOLhyphen"/>ctrine, Schiſme in the deed of a perverſe ſeparation; he that denyeth or teacheth contrary to any Article of Faith, and yet will hold communion with a Church profeſſing the true faith, he is guilty of Hereſie, but not of Schiſme: he that beleeveth all the Articles of Faith, and holds a pure con<g ref="char:EOLhyphen"/>feſſion, and yet will not communicate with a true Church in holy duties, he is guilty of Schiſme though not of Hereſie, in the Epiſtle to the <hi>Galathians, Gal.</hi> 5. 20. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, theſe are two diſtinct workes of the fleſh, <hi>Di<g ref="char:EOLhyphen"/>viſions,</hi> and <hi>Hereſies.</hi>
+                     </p>
+                     <p>The foundation-truthes on which Zion <hi>Rev.</hi> 14. 12. is laid, are the <hi>Com<g ref="char:EOLhyphen"/>mandements of God,</hi> and <hi>the faith of Ieſus.</hi> Babylon the great, the Mother of Harlots, who is to be deſtroyed, oppoſeth the Keepers of theſe, labours to demoliſh theſe. Papiſme or Popery, it is not any one lone Hereſie, but a bo<g ref="char:EOLhyphen"/>dy of many Hereſies, the ſinke of Hereſies, <hi>A Myſtery of iniquity;</hi> Hereſies therefore in a Myſtery, a cunning ſerpentine invaſion of Chriſt, and his Faith, and Worſhip, under the name and title of the Church of Chriſt, his Faith, his Spirit, his Honour, his Worſhip; therefore for this <hi>man of ſinne,</hi> I ſhall ſet him by himſelfe next after theſe Temple-violaters, theſe Hereticks,
+<pb n="29" facs="tcp:158449:15"/> not as not guilty of Hereſie, but as guilty in a higher degree. And here let me mention only thoſe that we are moſt in danger of and troubled with at the preſent: theſe Hereticks, polluters of the Temple of God are.</p>
+                     <p n="1">1. The Antinomians: they over-throw the Law Morall, they hold that Chriſt came to aboliſh it, that a beleever hath nothing to do with keeping the Commandements, that the Goſpell takes away all obedience to the Com<g ref="char:EOLhyphen"/>mandements; they are againſt all urging of doing of duty of Humiliations, of Repentance for ſins after Iuſtification, of praying for pardon of ſin by a bele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ver, they hold that the Law ought not to be Prea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hed to beleevers, with a great deale more of the like pernicious Leaven: all which ſavoureth of ignorance, pride, and conceitedneſſe, and of affectation of licentiouſneſſe, and lawleſſe liberty: the ſpirit of Libertiniſme inſpireth theſe men.</p>
+                     <p n="2">2. The Anti-Sabbatarians: They evert the fourth Commandment; tea<g ref="char:EOLhyphen"/>ching that it is Ceremoniall, and ſo taking away all conſcience of ſin againſt the Commandment of God, (though no day be kept a Sabbath in the week) and thereby all preaching, and attendance on duties of Gods Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhip, publike and priva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Lords day, in conſcience to Gods Command<g ref="char:EOLhyphen"/>ment laid aſide, they at one blow lay flat all that would uphold the power of godlineſſe.</p>
+                     <p n="3">3. The Germane Anabaptiſts, that hold that a Chriſtian ought not to be a Magiſtrate, that Chriſtians may not take the ſword, nor wage war; theſe evert the fifth Commandment; I call them the Germane Anabaptiſts, for there divers Sects of them, are, and have been for this hundred of ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs paſt; through Gods juſt judgement, their errours, ſome of them, begin to ſpread in England; theſe ghoſts can paſſe the Seas, and ſwim thorow the billows and waves of mighty waters; they are in their firſt ſpawning to be looked unto; for who knows unto what deſtructive Principles and Practi<g ref="char:EOLhyphen"/>ces ſuch giddy ſelf-willed ſpirits may run? <hi>Bellarmine</hi> ſlanderouſly calls them <hi>Proles Lutheraniſmi,</hi> the off-ſpring of Lutheraniſme; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hey are, inde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d, the off ſpring of hell, for hell it ſelfe is moved, when God rents the heavens, and comes down to the great work of the Reformation of his Church. Satan that ſent theſe Furies out to defame the work of Re<g ref="char:EOLhyphen"/>formation, which God began by <hi>Luthers</hi> glorious Miniſtery, he is Satan ſtill and ſends theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uries among us for the very ſame end.</p>
+                     <p>For the preſent, I will name no more that are againſt the Command<g ref="char:EOLhyphen"/>ments of God. Againſt the faith of Ieſus I ſhall onely mention two:</p>
+                     <p n="1">1. The A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>minians, that teach univerſall grace, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd the falling away of the Saints, and deny that the efficacious working of internall grace from Gods Spirit is neceſſary to converſion, and to the begetting of faith in a ſinner: They teach that the grace of converſion is reſiſtible, that we cannot have aſſurance, and the like.</p>
+                     <p n="2">
+                        <pb n="21" facs="tcp:158449:15"/> 2. The Socinians, which, among other damnable errours, run into theſe two: Firſt, they deny the Deity of our Lord Ieſus Chriſt, who is the great God, our Saviour, God bleſſed for ever. Secondly, they deny that Chriſts death was for ſatisfaction, <hi>Iſa.</hi> 53. 5, 6. <hi>Gal.</hi> 3. 13. 1 Pet. 2. 24. or for merit, 1 <hi>Pet.</hi> 1. 18. 19. <hi>Act.</hi> 20. 28. and that it was a price, 1 <hi>Cor.</hi> 6. 20. 1 <hi>Tim.</hi> 2 6. of our redemption, but onely hath in it the nature of an example how we ſhould ſuffer, that Chriſt is our Redeemer, not by being a ranſome, or paying a price, or as our Surety <hi>Heb.</hi> 7. 22. making ſatisfaction, but onely by leaving us an example, that we ſhould follow his ſteps: The foregoing Texts of Scripture are expreſly againſt this moſt helliſh hereſie.</p>
+                     <p>Theſe, and the like to theſe, are <hi>Dogs, Wolves in Sheeps skins, evill workers,</hi> the <hi>Conciſion,</hi> as thoſe that urged Circumciſion are called, <hi>Phil.</hi> 3. 2. they are to be named with ſuch names of diſgrace, as tell truly what they are, that all may beware of them: they cut themſelves, &amp; others that hearken to them, off from Chriſt, and from his Church: in<note place="margin">
+                           <hi>Jucunda proſonomaſia conjunxit inter ſe</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>conciditur e nim qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d diſcerpitur, &amp; planè diſtrahi<g ref="char:EOLhyphen"/>tur: circu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ciditur, quod, ſupervacaneis reſectis, purgatur,</hi> Bullinger. in locum.</note> this reſpect all the hereticall teachers are the <hi>Conciſion,</hi> they are <hi>evill-workers,</hi> for they ſhould build up the Church of God, but they pull it down and deſtroy it: like dogs they bark at the truth, they grin at Orthodox Miniſters, and faſten on the ſimple the fangs of their poiſoned doctrine: There's the Wolfe; be<g ref="char:EOLhyphen"/>ware, and thrice beware.</p>
+                  </div>
+                  <div n="4" type="subsection">
+                     <p n="4">4. <hi>Antichriſt,</hi> and the <hi>Spirit of Popery,</hi> which hath turned Zion into a Babylon; I mean Rome-Chriſtian, into Rome-Antichriſtian, and it is now a cage of unclean and hatefull birds, a den of beaſts, a ſtie of foule ſpirits. This Spirit of Antichriſt diſcovers it ſelf in four things:</p>
+                     <p n="1">1. In Self-exaltation, and Domination over the Church, that the Pope might ſit in the Temple of God, as God, 2 <hi>Theſſ.</hi> 2. 4. 5.</p>
+                     <p n="2">2. In Apoſtacy from the faith, that the <hi>man of ſin</hi> might be the head of the Church: thus he becomes the head of that Apoſtaſie, and of the Popiſh Apoſtaticall Synagogue, farre from the Apoſtolicall Church of which Chriſt is head.</p>
+                     <p n="3">3. In ſpirituall fornication and adultery, which is Idolatry, Superſtition and Will-worſhip: thus the Popiſh Synagogue is the Whore of Babylon.</p>
+                     <p n="4">4. In lyes taught in Hypocriſie, and doctrines of Devills, 1 <hi>Tim.</hi> 4. 1, 2, 3.</p>
+                     <p n="5">5. They defile and deſtroy Gods Temple, that by pernicious errours de<g ref="char:EOLhyphen"/>ſtroy, and ever either of the two great ordinances of God, the <hi>Magiſtracy</hi> and the Miniſtery; the Authors, the fautors, cheriſhers, or nurſes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he recei<g ref="char:EOLhyphen"/>vers, abettors, or applauders of ſuch errours: theſe ſtrike the very <hi>Pillars</hi> of the Temple.</p>
+                     <div n="1" type="sub-subsection">
+                        <p n="1">
+                           <pb n="22" facs="tcp:158449:16"/> 1. For <hi>Magiſtracy,</hi> thoſe that erroneouſly teach that Magiſtrates have nothing to doe in the firſt but only in the ſecond Table of the Law, that they are to preſerve the Peace, and judge about <hi>meum</hi> and <hi>tuum,</hi> mine and thine, but for Religion, and Gods Worſhip, and Doctrine, they have not to doe with their power in thoſe. But God ſaith, <hi>I will give Kings to be thy nurſing fathers, Eſa</hi> 49. 23. as ſpeaking of the Church under the New Te<g ref="char:EOLhyphen"/>ſtament. <hi>David</hi> ſaith, <hi>Pſal.</hi> 122. 9. <hi>becauſe of the houſe of the Lord, I will ſeeke to doe thee good.</hi> And againe, <hi>Pſa.</hi> 101. 8. <hi>I will betimes cut off evill do<g ref="char:EOLhyphen"/>ers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rom the City of God.</hi> Reſtauration of the true Worſhip and Religion, and the demoliſhing and extirpation of the falſe, were the chiefe praiſes of godly Princes, <hi>Aſa, Iehoſaphat, Hezekiah, Ioſiah,</hi> and of <hi>Nehemiah</hi> the renowned reformer, <hi>Neh.</hi> 13.</p>
+                        <p>
+                           <label type="milestone">
+                              <seg type="milestoneunit">Obj. </seg>
+                           </label> That's the Old Teſtament.</p>
+                        <p>
+                           <label type="milestone">
+                              <seg type="milestoneunit">Sol. </seg>
+                           </label> What, are the Damned Manichees again raiſed from Hell? Shall we againe be haunted with the Ghoſts of the old Hereſies, ſentenced to the bot<g ref="char:EOLhyphen"/>tomleſſe Pit, one thouſand four hundred yeares agoe, for rejecting the Old Teſtament?</p>
+                        <p n="2">2. Doe you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>old the New Teſtament to be in force? you muſt then re<g ref="char:EOLhyphen"/>ceive the Old. The New Teſtament is not to be received but as it agrees with the Old. Chriſt bids, <hi>Search the Scripture,</hi> Ioh. 5. 39. 46. meaning the Old Teſtament, which then was only written; he ſaith, <hi>Had yee believed</hi> Moſes, <hi>yee would have believed me.</hi> He that refuſeth the Old Teſtament, where his luſt ſerves him, will doe as much for the New. The Evangeliſts writing of Chriſt that we might believe on him, runs thus; <hi>this was done, that it might be fulfilled which was written.</hi> The Apoſtles in their Epiſtles confirme all they ſay in matters of faith, and holy life out of the Old Teſta<g ref="char:EOLhyphen"/>ment: as to inſtance in two or three places for all, the great point of faith, in 1 <hi>Pet.</hi> 2. 4, 5, 6, 7. the great point of holineſſe of life, in 1 <hi>Pet.</hi> 1. 15, 16. the great duty of obedience to Parents, in <hi>Epheſ.</hi> 6. 1, 2, 3. read the Texts. The Scripture of the Old Teſtament will furniſh a Miniſter of the New Teſtament, the man of God, and make him abſolute, 2 <hi>Tim.</hi> 3. 15, 16, 17. It is for every Chriſtian a more ſure word, 2 <hi>Pet.</hi> 1. 19. 21. than voyces from Heaven; it is a light that ſhineth in the dark, untill Chriſt the Day<g ref="char:EOLhyphen"/>ſtarre dawn in the heart of him that takes heed to it.</p>
+                        <p n="3">3. But let us come to the New Teſtament, <hi>Rom.</hi> 13. 4. 3. Magiſtracy is the <hi>Ordinance of God, ſet up for the puniſhment of evill-doers,</hi> when Blaſphe<g ref="char:EOLhyphen"/>my, and Idolatry, falſe worſhip, Hereſie, Prophaneſſe, and curſed Oathes are not evill-doing, then let the Magiſtrate have nothing to doe with the firſt Table: it is <hi>Gods Ordinance for the praiſe of them that doe well;</hi> when the ſeeking of the Lord Iehovah, the uſe of Chriſts holy Inſtitutions, the
+<pb n="23" facs="tcp:158449:16"/> profeſſion of his holy Name and Faith, the ſanctification of his Holy Day' and in a word, when Piety ceaſeth to be well-doing, then let the power of Magiſtracy ceaſe about matters of the firſt Table: the Magiſtrate is the <hi>Mi<g ref="char:EOLhyphen"/>nister of God for thy good;</hi> O Chriſtian, as thou art a Chriſtian, he is <hi>to thee</hi> for good.</p>
+                        <p>1 <hi>Tim.</hi> 2. 2. 5, 6. Out of this Text note to ſtop the mouthes of all Cava<g ref="char:EOLhyphen"/>liers. 1. The end of Magiſtracy is not only that thou maiſt, who art a Chri<g ref="char:EOLhyphen"/>ſtian, lead a peaceable and quiet life, but the end of that end, that thou maiſt lead it in all <hi>godlineſſe</hi> and honeſty.</p>
+                        <p n="2">2. For the better attaining to this end, thou art bound to pray all manner of Prayer for Kings, and all in Authority; this duty he cannot doe that holds this errour.</p>
+                        <p n="3">3. The reaſons on which this rule and exhortation is grounded, doe reach out all their ſtrength to this, that the Magiſtrate may (being con<g ref="char:EOLhyphen"/>verted to the Truth) not only looke to that part of his duty to be the father of the Country, and Common-wealth, but the Nu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſing-father to the Church; not only to ſee the Peace be kept, but to ſee that Piety flouriſh, <hi>all Godli<g ref="char:EOLhyphen"/>neſſe:</hi> the Reaſons are theſe.</p>
+                        <p n="1">1. God will have <hi>all</hi> men, <hi>i. e.</hi> all ſorts of men to be ſaved, and come to the knowledge of the truth. Pray for them, that coming to the knowledge of the truth they may the better uſe the Sword, to maintaine the truth, and reſtraine and debellate falſhood.</p>
+                        <p n="2">2. This is good and acceptable in the ſight of God our Saviour, that your prayers ſhould be the meanes to bring in Kings, and Parliaments, States, and all in Authority, to uphold Godlineſſe out of an heart truely inlighte<g ref="char:EOLhyphen"/>ned, and inflamed with the love of Godlineſſe: you pleaſe not Chriſt if you pray not for them out of ſuch a principle, and to ſuch an end.</p>
+                        <p n="3">3. There is but one God, both of Kings and Magiſtrates that are yet with<g ref="char:EOLhyphen"/>out, and abuſe their power againſt all true godlineſſe: and of you; why ſhould yee doubt but that he will heare your Prayers, and at your Prayers give you Magiſtrates, that ſhall make it their honour to uſe their power for God, to attaine his main end, that is, your Godly life, as well as your peace<g ref="char:EOLhyphen"/>able and honeſt life, as they received it from God; who hath ordained Ma<g ref="char:EOLhyphen"/>giſtracy for the attaining of that main end?</p>
+                        <p n="4">4. There is but one Mediator between God and men, who gave himſelfe a ranſome for all, that teſtimony in proper ſeaſons. Chriſt mediates for Ma<g ref="char:EOLhyphen"/>giſtrates, is a ranſome for Magiſtrates, is that teſtimony which is as well teſtified to Magiſtrates as any other; and if any ſay we have prayed long and prevailed little, you muſt know there are proper ſeaſons, full ſeaſons for this teſtimony to be diſpenſed, and to make that diſpenſation effectuall,
+<pb n="24" facs="tcp:158449:17"/> therefore pray, pray all manner of Prayers for their thorough converſion, that they may glory more to ſee their Dominions all Godly, under that one God, through that one Mediator, by that one Goſpell that witneſſeth of this Grace, by one Faith, one common Faith, in that only ranſome of Chriſt, in one way of his true Worſhip; then to ſee their Dominions rich, and peaceable. Why under this one God, and this one Chriſt feeding among you, may you not raiſe up to you ſeven Shepheards, and eight Princes of men? ſay all, yea, by Prayer of faith we ſhall doe it.</p>
+                     </div>
+                     <div n="2" type="sub-subsection">
+                        <p n="2">2. For the <hi>Miniſtery,</hi> they deſtroy and prophane Gods Temple, by their errours diverſly;</p>
+                        <p n="1">1. Everting the <hi>Lords owne Canons</hi> for the Examination and Ordination of Miniſters, or Biſhops by the <hi>Presbytery.</hi> The Epiſtles to <hi>Timothy</hi> and <hi>Titus</hi> were written to order Gods houſe; 1. <hi>Tim.</hi> 3. 15. there are drawn by the Holy Ghoſt the Church<hi>-Canons,</hi> the <hi>Conſtitutions</hi> of the Church of the New Teſtament, Chriſts <hi>Directory,</hi> by the hands and Miniſtery of that elect Veſſell, <hi>Paul</hi> the Apoſtle. In theſe Canons the <hi>Presbytery,</hi> that is, the ſociety of Teaching-Elders, or Biſhops <hi>(Paul</hi> knew no other Biſhops) the Aſſembly of the Elders (ſo the word is uſed in <hi>Act.</hi> 22. 5. where our laſt Tranſlation reads it, <hi>the eſtate of the Elders)</hi> the Elder-ſhip, 1 <hi>Tim.</hi> 4. 24. &amp; 5. 22. &amp;. 3. 2. 9, 10. <hi>Tit.</hi> 1. 5. 9. 2 <hi>Tim.</hi> 2. 2. hath the <hi>charge of Exami<g ref="char:EOLhyphen"/>nation</hi> of thoſe that are to be made Miniſters, and the <hi>power of Ordination</hi> by impoſition of hands; they that are to be made Miniſters muſt be <hi>apt to teach,</hi> 1 <hi>Tim.</hi> 3. 2. and they muſt be <hi>ordained</hi> by <hi>laying on of hands, Tit.</hi> 1. 5. 1 <hi>Tim.</hi> 5. 22. their aptneſſe to teach muſt be tryed and examined, 1 <hi>Tim.</hi> 3. 10. having ſpoken of Biſhops before, and now ſpeaking of Deacons, and that concerning their holding the Myſtery of Faith, he ſaith, and let theſe <hi>alſo</hi> firſt be proved, <hi>alſo,</hi> that is, as well as thoſe that deſire the office of a Biſhop: they muſt firſt be Examined touching their aptneſſe and ability to Teach; ſo muſt the Deacons alſo about their holding of the Myſtery of Faith in a pure conſcience. Now this Charge of Examination lyes upon the faithfull men, the Presbyters that are able to teach others, 2 <hi>Tim.</hi> 2. 2. and the power of laying on of hands, or of ordination is in the Presbytery. We find this order of men, but we finde no other in theſe Epiſtles that have any charge over the Houſe of God, the Church of the living God: Now thoſe overthrow theſe Canons, and defile the Houſe of God, that take Ordination away, that take it out of the hands of the Presbytery, and put it into the hands of the People, or any other, that take away this Presbytery, that ſet up Miniſters, or run into the Miniſtery, and will not ſubmit themſelves to the tryall of the Aſſembly, and eſtate of the Teaching-Elders the Miniſters, that are oppoſite to the Government by the Presbytery; theſe are the everters of the Lords owne Canons.</p>
+                        <p n="2">
+                           <pb n="25" facs="tcp:158449:17"/> 2. Subverting the <hi>Lords owne Ordinance</hi> for the Miniſtery, that thoſe that Preach the Goſpell ſhould live of the Goſpell, 1 <hi>Cor.</hi> 9. 13, 14. they would have them get their livings by the Plow, or by Trades. The Apoſtle charg<g ref="char:EOLhyphen"/>eth <hi>Timothy,</hi> and in him all Timothies, all Miniſters of the Goſpell <hi>to give themſelves wholly</hi> to Reading, to Exhortation, to Doctrine, that their profi<g ref="char:EOLhyphen"/>ting may appeare to all; and to contemne in them (who can doe ſo, and drive a trade, and follow another calling) the Apoſtles called to be <hi>Fiſhers of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n;</hi> left their Nets, and applyed not themſelves to catch F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſh. If the Miniſters be <hi>doing this,</hi> (they need take care of no more, nay this is that deed to which the Promiſe is) <hi>He ſhall both ſave himſelfe, and them that heare him,</hi> 1 Tim. 4. 13, 15, 16. They Object, the Apoſtles did worke with their hands. <hi>Sol.</hi> 1. They had immediate and infallible aſſiſtance of the Holy Ghoſt in their Miniſtery, 1. So have none now. 2. But that is not all, they wrought not ordinarily, but in a caſe, as it appeares in the 2 <hi>Cor.</hi> 11. 9 12. to cut off occaſion from them which deſired occaſion, 2 <hi>Cor.</hi> 12. 13, 14. and in that place where he ſaith, I robbed other Churches to doe you ſervice; that is, he took maintenance of others while he Preached to them: what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ver he did, it is evident he had power to have lived wholly of the Goſpell, and that is the Lords Ordinance, which the Church muſt ſtand to, and be bound by, 1 <hi>Cor.</hi> 9. 14, 15. they would have the Miniſters maintenance by Almes, and Contributions, <hi>Mat.</hi> 10. 10. <hi>Luk.</hi> 10. 7. 1 <hi>Tim.</hi> 5. 18. but it is <hi>hire,</hi> not Almes: can you make Wages and Almes to be the ſame? It is a due, and as truely earned as whatſoever any laborer gets at his fingers ends. They cry down Tythes as Popiſh and Iewiſh: but that way of main<g ref="char:EOLhyphen"/>tenance is neither Popiſh nor Iewiſh, which was before the Law. <hi>Melchiſe<g ref="char:EOLhyphen"/>dech</hi> took Tythes of <hi>Abraham,</hi> and of <hi>Levi</hi> in <hi>Abrahams</hi> loynes, and <hi>Mel<g ref="char:EOLhyphen"/>chiſedech</hi> was not a Prieſt of <hi>Aarons</hi> Order; our Lord Jeſus is the Prieſt af<g ref="char:EOLhyphen"/>ter <hi>Melchiſedechs</hi> order. <hi>Iacob</hi> promiſed maintenance of Gods Publique Worſhip, by paying Tythes.</p>
+                        <p n="3">3. Confounding <hi>the Lords order,</hi> who hath inſtituted a Miniſtery to Preach the Goſpell, <hi>Mark</hi> 16. and to teach, <hi>Mat.</hi> 28. 19, 20, 21. and they give power to every Member to Preach, abuſing that Text in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <hi>Cor.</hi> 14. 31. yee may all Propheſie one by one; it ſpeakes of the Prophets in that Church, not the Members, read the Text, <hi>v.</hi> 29. let the Prophets ſpeak two or three, and let the other judge, <hi>v.</hi> 32. and the Spirits of the Prophets are ſubject to the Prophets: yee may all Propheſie, that is, all the Members that were Prophet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, not all the members as members; thoſe that had the gift of Propheſying, not thoſe that had not the gift: Now the truth of the place is, there were then in the Church extraordinary gifts, as of Healing, of Mira<g ref="char:EOLhyphen"/>cles, of Tongues, of interpretation of Tongues; and ſo of Propheſying, that
+<pb n="26" facs="tcp:158449:18"/> is, either fore-telling things to come, or of unfolding the Propheſie of Scrip<g ref="char:EOLhyphen"/>ture that concerned the preſent times of the Church, with a ſpeciall gift of dextrous application, and accommodation of the Expoſition of the Prophe<g ref="char:EOLhyphen"/>ſie to the eſtate of the Church for comfort, for exhortation, and for edifica<g ref="char:EOLhyphen"/>tion; thoſe that had theſe gifts ought to uſe them for the good of the Church, but with order, and with ſubmiſſion to the tryall and judgement of the Aſ<g ref="char:EOLhyphen"/>ſembly of the Prophets in the Church. Theſe gifts are ceaſed now, yet if any ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y they have them, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t them ſhew their gift, according to the Apoſtles Rule, yeeld to the tryall of the ſame; and if they have any ſuch gift, we will bleſſe God that now alſo gives ſuch gifts to the children of men; we will open our Pulpits for you, but becauſe they can bring forth no ſuch thing, but raiſe from the Dead, and from Hell old Hereſies, and errours, and trouble the people with trifles, and endleſſe Diſputes, that tend not to edifi<g ref="char:EOLhyphen"/>cation in the Faith; we reject them, and yeeld not to them any Authority to meddle with the worke of the Miniſtery: but obſerve, while they per<g ref="char:EOLhyphen"/>vert this Text, peruſing the words, <hi>let the other</hi> Prophets <hi>judge, the Spirits of the Prophets are ſubject to the Prophets,</hi> ere ever we are aware, we are faln upon a Judicatory, a Presbytery, an Aſſembly of Prophets.</p>
+                        <p n="4">4. D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſtroying <hi>the proviſion for an able Ministery,</hi> debaſing Learning and Univerſities; under the Old Teſtament there were the Schooles of the Pro<g ref="char:EOLhyphen"/>phets, 2 <hi>King.</hi> 2. 3. 7. which ſome think took their beginning in the times of <hi>Eli,</hi> and <hi>Samuel.</hi> The Levites had their Schooles, inſtituted by <hi>Moſes</hi> and <hi>Aaron,</hi> preſerved by the Iudges and Kings, continued in the Babyloniſh Captivity, propagated to the daies of our Saviour, and an end put to them by the deſtruction of Jeruſalem by the Romans. Out of theſe Schooles came their learned Rabbies, and their Scribes, and others; 1. <hi>Paul</hi> was brought up at the feete of <hi>Gamaliel.</hi> Chriſt had his Schoole, in which were the Apoſtles, and ſeventy two Diſciples. The Apoſtles oppoſed the Schooles of the Liber<g ref="char:EOLhyphen"/>tines, Cyrenians, and Alexandrians, <hi>Act.</hi> 6. 9. they inſtituted Schooles in Antioch, and Alexandria, and other Provinces. Theſe opinionative perſons ſay, that the Apoſtles were unlearned Fiſher-men. We anſwer, that part of that power from on high, which the Apoſtles were commanded to expect, and to tarry at Ieruſalem till they were indued with it, <hi>Luk.</hi> 24. 49. was the gift of the Holy Ghoſt inabling them to ſpeak all Languages, <hi>Act.</hi> 2. this ſupplied abundantly from heaven that defect of learning, and did make them learned above all that can be attained in Schooles and Univerſities; they had their Commiſſion before to go and teach all Nations; but were not to ſet out upon the execution of their Commiſſion untill they were fitted in this manner: he that can ſhew the like gift of the holy Ghoſt, we ſay no Schools are required for the help of ſuch; but if from Heaven the Holy
+<pb n="27" facs="tcp:158449:18"/> Ghoſt be not thus given, let them uſe the ordinary helpes which God af<g ref="char:EOLhyphen"/>fordeth; if any refuſe, ſhew ſuch gifts and we ſhall bleſſe God. The Langua<g ref="char:EOLhyphen"/>ges, the Greek and Hebrew are needed to underſtand the originall t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>x<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and derive our Doctrine from the freſh and pure fountaines; the Latine is alſo needfull, that we may not only the better receive the benefit of the gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ts given to the Fathers, and Writers of former ages (for all gifts are given of God to profit the Church withall) but alſo be acquain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed with the Liberall Arts and Sciences: that the Ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s are needfull in a Miniſter is cleare; hereby the Miniſter ought to be able to convince and confute errours, and to main<g ref="char:EOLhyphen"/>taine the truth by diſputation, as well as to teach it, and to comfort, exhort, and rebuke, he is to ſtop the mouthes of Hereticks and Deceivers; this he cannot doe without the helpe of the Arts, eſpecially of Logick, whereby he diſcernes the fallacies of ſeducers, and can open the truth out of the Scrip<g ref="char:EOLhyphen"/>tures, which are delivered in a rationall diſcourſe. Who have been the fa<g ref="char:EOLhyphen"/>mous Inſtruments of God, to confute all the Hereticks of old? Who have cut the ſinewes of <hi>Harding, Stapl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ton, Bellarmine,</hi> and other Popiſh Wri<g ref="char:EOLhyphen"/>ters? not any other ſave men famous for Learning. Did you ever heare of ſuch ſervice done for the Church of God by any of the illiterate Anabap<g ref="char:EOLhyphen"/>tiſts and Sectaries, though they have boaſted of the Spirit? yet I ſay not that Learning gives Miniſteriall gifts, much leſſe Grace; but without Learning the Miniſtery would be but lame in many reſpects: therefore the enemies of a learned Miniſtery are the friends of Popery, and all Hereſies, of ignorance and blindneſſe, and the enemies of the truth and Goſpell, of the light and comfort of the Church of Ieſus Chriſt.</p>
+                        <p n="5">5. Novices, newly converted ones at the beſt taking upon them to Preach, and permitted ſo to doe; this is to defile Gods Houſe by prophaning the Miniſtery. Holy <hi>Paul</hi> ſaith, <hi>not a novice,</hi> 1 Tim. 3. 6. <hi>leſt, puffed up with pride, he fall into the condemnation of the Devill;</hi> theſe five waies our Novel<g ref="char:EOLhyphen"/>liſts ſtrike the pillar of the Miniſtery: thus of a fifth ſort of Temple-defilers.</p>
+                        <p n="6">6. I proceed to others, which though they might be caſt, many of them, under the head of Schiſme, yet becauſe they are now late-ſprung, and trou<g ref="char:EOLhyphen"/>ble the Church of God, I ſhall let them beare a diſtinct numeration, as ſo many ſeverall orders of Defilers, though not diſtinct ſorts and kinds; there<g ref="char:EOLhyphen"/>fore, <hi>ſixthly,</hi> thoſe <hi>that keep out of the Church</hi> any of the Ordinances of Chriſt, thoſe that keep Gods Houſhold-ſtuffe in any part of it out of his Temple, as thoſe that deny <hi>Paedo-Baptiſme,</hi> or the Baptizing of the Infants of thoſe that profeſſe the faith of Ieſus Chriſt; the Scripture for Baptizing of ſuch Infants (beſide many others urged by many) is that in <hi>Acts</hi> 2. 39. <hi>For the Promiſe is unto you, and to your children:</hi> from theſe words with the former ariſeth this Argument; <hi>To whomſoever the Promiſe belongs, to them</hi>
+                           <pb n="28" facs="tcp:158449:19"/> 
+                           <hi>Baptiſme doth belong;</hi> the truth of this is in the reaſoning of the Apoſtle, who requires them to receive Baptiſme upon their Repentance profeſſed, becauſe the Promiſe is to them; this ground is Apoſtolicall and Divine. But <hi>to the children of Profeſſors of the Faith doth the Promiſe belong;</hi> this is the very ſenſe of the words of the 39. verſe, therefore <hi>to the children of the Profeſſors of the Faith doth Baptiſme belong:</hi> thoſe that deny theſe infants Baptiſme call them common, whom God calls <hi>holy,</hi> 1 <hi>Cor.</hi> 7. 14.</p>
+                        <p n="7">7. Thoſe that keepe out the members of Chriſt, not admitting Saints, every way as gracious as themſelves, unto the fellowſhip of the Church, unleſſe they will yeeld to their Church-way; not admitting Profeſſors of the true Religion, that have knowledge, are not ſcandalous, are not refracto<g ref="char:EOLhyphen"/>ry to any the Holy Ordinances of Chriſts Worſhip, becauſe they ſee not in them truth of Grace, or that which may ſavour to the ſenſe of Chriſtians, that the worke of Grace in the New-birth is truely begun in them ſo farre as man can conceive. Where is the Rule given for <hi>this viſible grace,</hi> as they call it, by which rule the non-admitted may ſee that he is juſtly proceeded with<g ref="char:EOLhyphen"/>all, according to the Word of God, that ſo, though he have no Grace, yet all that will uſe their reaſon may ſee by vertue of ſuch cleare Texts of the Word, their power is rightly uſed for his non-admiſſion, that the uſe of it may be to edification, not to deſtruction? 2 <hi>Cor.</hi> 13. 10. for which end all Church-power is given of Chriſt.</p>
+                        <p n="8">8. They that <hi>Diſ-church</hi> the true Churches of Ieſus Chriſt, becauſe they are faulty in Diſcipline, or in Government, and chiefly to diſchurch them when they thirſt after, pray for, uſe all meanes God affords them for Refor<g ref="char:EOLhyphen"/>mation.</p>
+                        <p n="9">9. Thoſe that would introduce into a Chriſtian Church and State <hi>a Tole<g ref="char:EOLhyphen"/>ration of all ſorts of Religions,</hi> or all ſorts of Opinions in Religion, under the name of <hi>Liberty of Conſcience;</hi> Theſe Scriptures are fully againſt it. The Angel of the Church of <hi>Epheſus</hi> is commended by our Lord Jeſus for his patience, <hi>Rev.</hi> 2. 2. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> and that he could not <hi>bear</hi> them which were evill, and tried thoſe that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aid they were Apoſtles, and were no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and found them lyars. It is condemned in the Angel of the Church of <hi>Thyati<g ref="char:EOLhyphen"/>ra,</hi> that he <hi>ſuffered,</hi> or <hi>tolerated</hi> that woman <hi>Iezebell</hi> to teach &amp;c. And Chriſt ſaith to the Angel of the Church in <hi>Pergamos,</hi> I have a few things againſt <hi>thee;</hi> becauſe thou haſt there, <hi>Rev.</hi> 2. 12. 14, 15, 16. them that hold the Doctrine of <hi>Balaam,</hi> and the Doctrine of the <hi>Nicolaitans.</hi> He is not charged with ſo great a fault as a toleration; but <hi>there</hi> they were, and <hi>there</hi> he ſhould not let them be: his connivence, or invigilancy, or remiſſeneſſe in not executing his power, muſt be repented of; or elſe, Chriſt will fight a<g ref="char:EOLhyphen"/>gainſt him: from that place in <hi>Ieremiah,</hi> chap. 32. 39. this Argument is full
+<pb n="29" facs="tcp:158449:19"/> of power. Whatſoever God hath promiſed, and is a branch of the Covenant of Grace with his people, to be made good chiefly in the time of the New Teſtament, all Chriſtians ought to ſeek and aſpire after. To give his people one heart, and one way, in his fear, for the good of them and their Chil<g ref="char:EOLhyphen"/>dren, God hath promiſed, and it is ſuch a branch of his Covenant; therefore this all chriſtians ought to ſeek and breath after. To ſeek after a toleration of divers wayes in Religion, is not to ſeek after one heart and one way in godly fear; and ſo not to ſeek after that branch of Promiſe and Covenant made to Gods people, and to be made good, chiefly in the times of the New Teſtament: therefore to ſeek after a toleration of divers wayes in Religi<g ref="char:EOLhyphen"/>on, is that which ought not to be in any Chriſtian. Adde to this, that in Phil. 1. To ſtand faſt in one ſpirit with one minde ſtriving together for the faith of the Goſpel, is the converſation becoming the Goſpel, eſpecially in times of terrible Adverſaries: and to ſtand thus united, unterrified, is an e<g ref="char:EOLhyphen"/>vident token of the Adverſaries perdition, and of our ſalvation: And that of God, <hi>Phil.</hi> 1. 27, 28. to fall into Diviſions, and plead for tolerations of Opi<g ref="char:EOLhyphen"/>nions of divers mindedneſſe in one faith, is not to ſtand faſt in one ſpirit with o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e minde, ſtriving together for that one faith of the Goſpel, and it is not to ſtand thus united, unterrified; therefore to fall into Diviſions, and plead for tolerations of opinions of divers mindedneſſe in faith, is not the converſation becoming the Goſpel, eſpecially in times of terrible Adverſa<g ref="char:EOLhyphen"/>ries, and is not an evident token of the Adverſaries perdition, and of our ſal<g ref="char:EOLhyphen"/>vation; and that of God. What is it then? It is an evident token of the Adverſaries prevalency, and of our ſuccumbency under the preſent judge<g ref="char:EOLhyphen"/>ment as yet: And of the further wrath of the Almighty, and that from a juſt God. I have heard of ſome that ſay, this is that which can never be, that all Chriſtians ſhould be of one heart and way; let ſuch believe in him that is faithfull, and hath promiſed, and not diſhonour and weary God by unbelief. God hath heretofore made good this Article of his Covenant. In the firſt primitive Chriſtian Church, they were all, the <hi>multitude of them that believed, of one heart,</hi> and of <hi>one ſoul, Act.</hi> 4. 32. <hi>they continued ſtedfaſtly</hi> in this holy unity, <hi>Act.</hi> 2. 42. 44. 46. There were two glorious fruits and con<g ref="char:EOLhyphen"/>comitants hereof: <hi>Fear came upon every ſoul, Act,</hi> 2. 43. <hi>and great grace was upon them all, Act.</hi> 4. 33. Now the ſame God that hath thus powred out his owne holy, and one ſpirit, the ſpirit of unity by the Preaching of the Goſpel, can do the ſame again. His Covenant is the ſame. The great God delights to do great things; the fruits would be alike excellent, nothing more full of Grace and amiableneſſe, or of terrour and dread. Hence alſo a<g ref="char:EOLhyphen"/>riſeth a ſtrong Argument, that no Chriſtian ſhould plead for toleration, for all ought to ſeek for Gods Church in the Reformation of it; the utmoſt
+<pb n="30" facs="tcp:158449:20"/> conformity to the firſt pureſt Primitive Church of Chriſt, when ſhe was as a heap of Whea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſet about with L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>llies. True liberty of Conſcience lieth in ſweet communion in the unity of faith, and in the perfect bond of love; the ſouls of beli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vers knit together, and cleaving one to another, as <hi>Ionathans</hi> did to <hi>David,</hi> unanimo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſly ſubject to Gods Law; all other Liberty is the Liberty of luſt.</p>
+                        <p n="10">10. There are alſo that will not joyn in Prayer with any other, though th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y be Chriſtians, unleſſe they know them to be godly, and that they be of their judgement and way: they refuſe to pray with us, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> only in our pub<g ref="char:EOLhyphen"/>lique Congregations, but in our private or occaſionall meetings. The Lords P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ayer directs us to Pray, <hi>Our Father: Our,</hi> reſpects the whole com<g ref="char:EOLhyphen"/>munity of Profeſſors of Chriſts name, and not any Segregated part: It taketh in all that call on the name of our Lord Ieſus Chriſt. What ſpirit are they of, that can deny to pray with thoſe that ſay, <hi>Za.</hi> 8. 21. Come, let us go &amp; ſeek the Lord, &amp; pray before him? Not of the ſpirit of one that is a Iew inwardly; Holy <hi>Paul</hi> among Sea men and Mariners, who are none of the beſt; among ſoul<g ref="char:EOLhyphen"/>diers, priſoners for ſeverall ſorts of wicked deeds, Heathens of ſeverall Nations and Religions, prayed as the mouth of them all, or with them all, beſeeching them all to take meat: he took bread, and ſolemnly prayed, as the Text ſaith, <hi>He gave thanks to God in the preſence of them all,</hi> Act. 27. 35. Chriſt hath broken down the partition Wall, and now none are to be called <hi>common, Act.</hi> 10. 11, 12, 14, 15. or <hi>unclean:</hi> The Goſpel is to be preached to every creature, to all Nations, therefore prayer is to be made with every creature, with all Nations; to whom we may preach, with them we may pray and ought: yea, prayer to God is not only an <hi>inſtituted</hi> worſhip, but natu<g ref="char:EOLhyphen"/>rall, or <hi>of the Law of Nature.</hi> Theſe Doctrines of diviſion rent and tear the Church of Chriſt, and this now mentioned is a pricking Bryar, and grieving Thorne.</p>
+                        <p n="11">11. Like to theſe alſo are thoſe that make up Churches of thoſe of their own opinion, and ſeparate from others that do hold the unity of Faith, and the Rule of righteouſneſſe: But who can ſeparate from thoſe that are of the ſame Faith, and not break fellowſhip with the Lord Ieſus?</p>
+                        <p>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fferences in opinions ſhould not diſſunder us in affections, much leſſe make diviſions ſeparate us into Church-wayes againſt C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urch-wayes; the ſame Faith, and the ſame Commandments for holineſſe ſhould be more po<g ref="char:EOLhyphen"/>werfull to cement us in one Church, then difference in opinions through pe<g ref="char:EOLhyphen"/>tulancy to put every opinion into practice; note, this ſhould be of force to looſe us in the building, or lay us in a frame, whoſe cemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> and morter, whoſe mould and faſhion is from a conſpiring in an opinion: theſe conſpiracies in
+<pb n="31" facs="tcp:158449:20"/> opinion joyned with ſeparation from other Churches that hold the faith of Ieſus and the Commandments of God, are no right gathering of Churches; they are Conventions, ſinfull, and Schiſmaticall, and unlawfull, carnall, and proud ſeparations; they that hold one Faith ought in lowlineſſe of minde and forbearance of one another, in love to indeavour to keep the unity of the ſpirit in the bond of peace, <hi>Eph.</hi> 4. 2, 3.</p>
+                        <p n="12">12. In like manner, it is a violating of Gods Temple to ſeparate, becauſe ſome wicked livers are not caſt out of the Church, the place abuſed is that in 2 <hi>Cor.</hi> 6. 14<g ref="char:punc">▪</g> 15, 17. To ſeparate, to come out from among them, is not to ſepa<g ref="char:EOLhyphen"/>rate or come out from the Church and Temple of God, but from Idols, from Belial, from Infidels, from Darkneſſe, from Unrighteouſn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e; that they from whom we ought to ſeparate, are Idolaters, Infidels, Belia<g ref="char:EOLhyphen"/>liſts, Heathens, of whom it is ſaid, ye were once Darkneſſe, Unrighteous ones, and they are not the Church and Temple of God: to ſeparate in the Apoſtles ſenſe, is, <hi>not to touch the unclean thing;</hi> that is, to have no commu<g ref="char:EOLhyphen"/>nion with them in their Idolatry, in their unrighteouſneſſe of any kinde; but other communion with them is not condemned, and if he will come to the Ordinances of worſhip of the true God with the Church, we may and ought to admit him to Communion with us in all Ordinances that are for converſion, and this is not to touch the unclean thing; I dolatry and unrigh<g ref="char:EOLhyphen"/>teouſneſſe is the unclean thing, which we may not touch; but the man is not the unclean thing, the ſeparation commanded and the coming out from them is not to be <hi>un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>qually yoked together with them;</hi> the Greek is elegant, lively, ſignificant, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, it is a Simile taken from the Plough, where the Teeme that drawes the ſame plough is by yokes and paires of Draught-cattell, Oxen or horſes, or the like, which are yoked in the ſame yoke, and ſo do draw each his part of the ſame Plough: to be yoked together is to draw one part in the ſame Draught; which is in the ſenſe of the Apoſtle to be joy<g ref="char:EOLhyphen"/>ned in the ſame communion, and counſell of the wicked, in which they draw the Plough of their wickedneſſe; be the wickedneſſe, Idolatry, unrighte<g ref="char:EOLhyphen"/>ouſneſſe, drunkenneſſe or any other to have Communion with an Ido<g ref="char:EOLhyphen"/>later in his Idolatrous worſhip, counſell to uphold that worſhip, or ſuch leagues of neareſt conjunction voluntarily choſen and run into, which may be a temptation to entice one to Idolatry; this is to be unequally yoked with the Idolater: It is to have fellowſhip with them<note n="“" place="margin">
+                              <hi>Hoc non eſt conſentire malè facientibus, eſſe cum eis in eccleſia, ſed mala facta co<g ref="char:EOLhyphen"/>rum approbare atque laudare.</hi> Aug. Tom. 7. Contra. Epiſt. Parmen. l. 1. c. 3.</note> in the unfruitfull works of darkneſſe, that the Apoſtle diſſwadeth us from, and not from the fellowſhip with Chriſt in his fruitfull Ordinances, and with his people in duties of publique worſhip of the true God, becauſe an inceſtuous brother is there preſent, and
+<pb n="32" facs="tcp:158449:21"/> through none of thy approbation of his wickedneſſe, or of his preſence, but through neglect of the Church, and thoſe officers in whom the power, and execution of the power lyeth for excommunication of ſuch ſcandalous bre<g ref="char:EOLhyphen"/>thren, is ſuffered to be there. Laſtly, he truly in the Apoſtles ſenſe doth ſeparate from the unclean thing, that cleanſeth himſelf from all filthineſſe of fleſh and ſpirit, 2 <hi>Cor.</hi> 7. 1. That is, purifying from all his ſins inward and outward, and not he that to avoid communion with the world, ſhuts him<g ref="char:EOLhyphen"/>ſelf up in a Monaſtery, lives an Hermite in a wilderneſſe; nor he that to avoid Communion with Swearers, and Drunkards, forſaketh the Aſſemblies of Orthodox Chriſtians: uſing Chriſts own Ordi<g ref="char:EOLhyphen"/>nances of the Word and Sacraments, to hold fellowſhip with Swearers and Drunkards in their Swearing, and Drunkenneſſe, and drunken meetings, is to go to plough with them, and to tumble with them in the filth; but to hold the fellowſhip of the Goſpel, if theſe come to the ſame aſſemblies with us, and ſit there as Gods people, is to hold Communi<g ref="char:EOLhyphen"/>on with Chriſt, and they have fellowſhip with us outwardly in Chriſts Plough and yoak; we have none with them, but with Chriſt and his Saints, and with them in the Profeſſion and duty of Saints.</p>
+                        <p n="13">13. But now the ſame Text doth condemne, as Temple-Defilers, thoſe that are unequally yoked together with unbelievers in Idolatrous worſhip, and Idolatrous feaſts, 2 <hi>Cor.</hi> 6. 17. that have communion with them in the Idol-ſervice: What fellowſhip hath the Temple of God with Idols? Thoſe that ſeparate not from ſuch, that is, from the aſſemblies of Idolaters, they partake of the table of Devils, 1 <hi>Cor.</hi> 10. 21. and cannot partake of the Lords Table. Thoſe that ſeparate not from the Popiſh aſſemblies, and that ſeparate not from their falſe Catholick Church, do alſo touch the un<g ref="char:EOLhyphen"/>clean thing, and ſin againſt the Apoſtles command for ſeparation. We muſt ſeparate from them that hold not Chriſt, in all things, wherein they hold not Chriſt, and no farther.</p>
+                        <p n="14">14. It is a ſore pollution of the houſe of God, to ſet up mens Commande<g ref="char:EOLhyphen"/>ments and inventions for Doctrine, <hi>Matth.</hi> 15. 9. <hi>Col.</hi> 2. 18. 20, 21, 22. Theſe be the births of mens fleſhly mindes, which are begotten and quick<g ref="char:EOLhyphen"/>ned by a ſpirit of Whoredomes: Theſe are heathens brought into Gods ho<g ref="char:EOLhyphen"/>ly Temple.</p>
+                        <p n="15">15. The prophanation, pollution, or contempt of Gods Ordinances, Diſcipline, or Government, is the defiling and waſting of Gods Temple; hitherto you may referre the prophanations of the Lords Supper in divi<g ref="char:EOLhyphen"/>ded Communions, and in comming without examination and ſelfe-judg<g ref="char:EOLhyphen"/>ing, 1 <hi>Cor.</hi> 11.</p>
+                        <p n="16">16. Ranke with theſe ſuch as diſgrace the publique and ſolemn Aſſemb<g ref="char:EOLhyphen"/>lies,
+<pb n="33" facs="tcp:158449:21"/> either troubling them by barbarous confuſion, 1 <hi>Cor.</hi> 14. 26. <hi>Every one hath a Pſalm, an interpretation, a Doctrine, a Revelation.</hi> Our new diſturbers boaſt of a falſ gift in theſe particulars; though they have not, yet they will have an Interpretation, a Pſalm, a Doctrine, a revelation: they cannot have the face yet to ſay, a <hi>Tongue;</hi> and if they may not have liberty to ſpeak in the publick Aſ<g ref="char:EOLhyphen"/>ſemblies, having no ſuch gift, they will deny their preſence to the Publick, &amp; fling diſhonour upon them all they can: or elſe deſpiſing the Church, 1 <hi>Cor.</hi> 11. 22. or place of the Publick aſſemblies: like unto theſe are ſuch alſo as puldown Churches, and ſet up their Chamber-meetings. <hi>David</hi> complaineth, <hi>they have burnt up all the Synagogues of God in the Land,</hi> Pſal. 74. 8. It was the <hi>Cen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>uri<g ref="char:EOLhyphen"/>ons</hi> Luk. 7. 4, 5. high commendations to our Lord Ieſus, <hi>he is worthy, for he lo<g ref="char:EOLhyphen"/>veth our Nation, and hath built us a Synagogue.</hi> Such alſo as deny the mainte<g ref="char:EOLhyphen"/>nance, <hi>Neh.</hi> 13. 10, 11. of the publick Miniſtery, ſolemn worſhip, and places for publick worſhip: ſuch as devour things Holy, and Conſecrated, or convert them to private uſes. Abhorreſt thou Idols, <hi>Rom.</hi> 2. 22. and yet committeſt thou ſacriledge? Why ſhould any <hi>Tobiah</hi> live in the chambers of the Tem<g ref="char:EOLhyphen"/>ple, <hi>Neh.</hi> 13. 5. and eate up the Tythes, all which belonged to Gods in<g ref="char:EOLhyphen"/>ſtituted Miniſtery?</p>
+                        <p>There yet remaine foure notorious Temple-Defilers, that make Gods houſe their prey, it ſhall ſuffice to name them.</p>
+                        <p n="17">17. Perſecutors, Tyrants, and oppreſſours of Gods Heritage; of whom we have that mournfull complaint, <hi>Pſal.</hi> 79. 1, 2, 3. O God! the Heathen are come into thine inheritance, thy holy Temple have they defiled: they have laid Ieruſalem on heapes: the dead bodies of thy ſervants have they given to be meat unto the Fowles of the Heaven, the fleſh of thy Saints unto the beaſts of the earth: their bloud have they ſhed like water round about Ie<g ref="char:EOLhyphen"/>ruſalem, and there was none to bury them. This is exemplified in the Anti<g ref="char:EOLhyphen"/>chriſtian rage of Papiſts, and other our enemies at this day in theſe three Kingdomes, eſpecially in Ireland.</p>
+                        <p n="18">18. Hinderers of Reformation, and of the Reformers God raiſeth up; theſe like <hi>Iannes</hi> and <hi>Iambres</hi> withſtand our <hi>Moſeſſes,</hi> I meane <hi>all the Stick<g ref="char:EOLhyphen"/>lers for any errour,</hi> and the <hi>reſisters</hi> of that bleſſed worke of the Nationall Covenant, whereby theſe three Kingdomes may become one according to Chriſt Ieſus. Shall Hell, that now opens her mouth wide, ſhall Satan, that can make uſe of a <hi>Peter,</hi> and make him a Satan, <hi>Mat.</hi> 16. 23. ſhall heights or depthes, of white or black Devills, ſwallow up that Covenant, or dead that Covenant-care, which cannot but make Rome and its Conclave to ſhake? why is not our Covenant proſecuted?</p>
+                        <p n="19">19. Senſuall Separatiſts, <hi>Iude</hi> 19. that walke after their luſts; Mockers, that jugling with the Scriptures broach bruitiſh-damnable Tenets, ſuch as
+<pb n="34" facs="tcp:158449:22"/> that, that the ſoule dyeth with the body, whereas it <hi>goeth to God that gave it,</hi> and is either as <hi>Dives's</hi> was, preſently ſent to Hell, and is there in torments; or elſe, as <hi>Lazarus's</hi> in <hi>Abrahams</hi> boſome, as <hi>Pauls</hi> with Chriſt, as the beleeving Thiefes in Paradice, as all beleevers <hi>preſent with the Lord,</hi> clothed upon with their houſe from Heaven, poſſeſſed of an houſe not made with hands, eternall in the Heavens, 2 <hi>Corinthians</hi> 5. 1, 3, 6, 8, Scoffers, 2 <hi>Pet.</hi> 3. 3, 4, 12. that by their impoſtures would illude the Do<g ref="char:EOLhyphen"/>ctrine of the laſt Iudgement, and ſay, where is the Promiſe of his coming? and take off from the hearts of the unwary and unſtable, <hi>the terrour of the Lord,</hi> 2 <hi>Cor.</hi> 5. 11. and the looking for, and haſtning unto the coming of the day of God. Diſeaſed fancifull minds that have itching eares, and will not endure ſound Doctrine, but heape teachers to themſelves, 2 <hi>Tim.</hi> 4. 3, 4.</p>
+                        <p n="20">20. The Machiavilian Politicians in a Chriſtian State, many degrees out<g ref="char:EOLhyphen"/>going old famous <hi>Achitophel,</hi> 2 <hi>Sam.</hi> 16. 21, 23. the Seditious, that love to make diviſions, and ſow diſcords, and plant an inveterate <hi>odium</hi> in the hearts of King, and Prince, and people, againſt all the godly and faith<g ref="char:EOLhyphen"/>full in the Land, with all evill Counſellors againſt the Lord, <hi>Nah.</hi> 1. 11. <hi>Pſa.</hi> 3. 2. and flattering bloody Edomitiſh Doegs, <hi>Pſ.</hi> 52.</p>
+                        <p>Beloved, what a griefe is it to think that by the ennumeration of particu<g ref="char:EOLhyphen"/>lars, not this Doctrine alone ſhould be ſo clearely and fully demonſtrated by twenty ſeverall ſorts of off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ndors, that there are many Temple-defilers with<g ref="char:EOLhyphen"/>in the Temple of God, but alſo that in our Engliſh Church and Temple, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uch Temple-vermine ſhould ſwarme at this day? wherefore to deſcend to ſome ſhort application.</p>
+                        <p n="1">1. Prayer becomes us with complaints to God, that dwells in his Temple; Prayer, that he would looke downe from Heaven and behold, that he would not make us to erre from his waies, and harden our hearts from his feare, but returne for his ſervants ſake: that he would rent the Heavens and come down with demonſtrations of zeal, ſtrength, and ſounding of bowels, with terrible unexpected workes of wonder, with Goſpell-bleſſing, that he would not be wroth very ſore, nor hold his peace at theſe things, nor afflict us very ſore. Pray, O remember not againſt us former iniquities, let thy mercies ſpeedily prevent us, for we are brought very low. Prayer, with faſting, and deepe humiliations become all that love Gods houſe in theſe our daies, untill God raiſe up ſome <hi>Nehemiahs</hi> that they may cleanſe, <hi>Neh.</hi> 13. 8. Gods Temple.</p>
+                        <p n="2">2. We ſhould not be ſcandalized hereby, but remember that in the great houſe of Gods Church there are Veſſels of ſeverall ſorts, and rather be purging our ſelves from theſe, then forſaking and deſerting the true Church of God: if a man purge himſelfe from theſe, he ſhall be a veſſell unto ho<g ref="char:EOLhyphen"/>nour,
+<pb n="35" facs="tcp:158449:22"/> 2 <hi>Tim.</hi> 2. 17. 20, 21. ſanctified and meet for the Maſters uſe, and Pre<g ref="char:EOLhyphen"/>pared unto every good worke.</p>
+                        <p n="3">3. And then the zeale of Gods houſe ſhould eate us up; though there be many things in theſe troublous times that befall us, or may feare us, and di<g ref="char:EOLhyphen"/>ſtreſſe us from without, yet the care of all the Churches ſhould ſomewhat come 2 <hi>Cor.</hi> 11. 28, 29. upon us, eſpecially upon Chriſts faithfull and pain<g ref="char:EOLhyphen"/>full Miniſters; whatever befalls the Churches we ſhould lay it to heart as if it befell our ſelves: the fire of conſuming zeale for Chriſts honour, the Goſ<g ref="char:EOLhyphen"/>pells purity, the Churches ſafety ſhould melt and faſhion us to that of bleſſed <hi>Paul, who is weake, and I am not weake? who is offended, and I burne not?</hi>
+                        </p>
+                        <p n="4">4. Laſtly, attending to our owne growth in Faith, Prayer, love and hope, we ſhould have compaſſion of ſome, making a difference, <hi>Jude</hi> 21. 22, 23. and others ſave with feare, pulling them out of the fire: hating even the Garments ſpotted by the fleſh: not hating the men, but hating the filthy af<g ref="char:EOLhyphen"/>fections and luſts, which pollute the man, and come from the fleſh, mans na<g ref="char:EOLhyphen"/>ture corrupted, hating them firſt in our ſelves, all envie, and vye in Religion, vaine-glory, ſelf-ſeeking, ſelf-love, pride ſpirituall, ſtrife, emulation, vari<g ref="char:EOLhyphen"/>ance, ſelf-pleaſing in our gifts and parts, and diſ-union of heart, &amp;c. for who can number all? but wiſedome, love, and ſincerity will by theſe direct enough. Thus of the ſecond Doctrine.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="doctrine">
+                  <p>The third Doctrine is this; that God will certainly puniſh all defilers, and violaters of his Temple with puniſhments proportionable to their ſin: they are not all of a ſort, nor all alike guilty: and God that will doe no man wrong, that he ſhould have the leaſt ground of entring an action againſt him, the righteous God will deale out his puniſhments accordingly.</p>
+                  <p>What puniſhments, you will ſay, or how doth he puniſh theſe ſinners?</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Anſ. </seg>1</label> Their workes ſhall periſh, though themſelves may be ſaved, 1 <hi>Cor.</hi> 3. 13. 15. yet ſo as by fire, the fire of the Word and Spirit in the day of the Goſpell, in the powerfull opening and application of the bright and burning truthes thereof: ſuch a day as this, when now you are before the Lord, hearing this Text Preached upon: this fire ſhall theſe defilers paſſe through, and their errours, and their ill worke they have made in Gods building, their wood, hay, and ſtubble burne to aſhes, and their per<g ref="char:EOLhyphen"/>ſons humbled and purified be ſaved; the Lord grant it, you need no other Purgatory, you will thinke this hot enough; and this or none will doe the deed. The Pontificians would faine finde their Purgatory-dreame in this Scripture, and they ſhall finde their Purgatory to purifie or conſume them, not the Purgatory they ſeeke, but the Purgatory God hath prepared for ſuch Temple-waſters, and Temple-defilers, ſuch foule beaſts; this is the breath of Chriſts lips, this is the brightneſſe of his coming, which ſhall con<g ref="char:EOLhyphen"/>ſume
+<pb n="36" facs="tcp:158449:23"/> and deſtroy that man of ſin: they are in Purgatory, and the fire now burnes hot upon them, and ſo it will upon all the reſt of the Temple-polluters afore-named. Doe you not ſee the Angels of God, many of the Seraphims, <hi>Eſa</hi> 6. 6, 7. with live-coales in their hands, taken with the Tongs from off the Altar, and laying them upon the mouthes of many faithfull able Miniſters, many an <hi>Eſay?</hi>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> They ſhall faile of their ends, their folly ſhall be manifeſt to all, 2. <hi>Tim.</hi> 3. 9. that is, all the Elect; but evill men, and ſeducers will waxe worſe and worſe, deceiving, and being deceived; they ſhall not yet deceive the Elect. You'le ſay, many of the choiceſt Chriſtians cleave to them, and many of them are the precious ſervants of Chriſt Ieſus, we cannot be otherwiſe perſwaded: for them, I ſaid but even now, they may be ſaved, but their workes ſhall periſh, themſelves ſhall be ſaved, yet ſo as by fire: and for the reſt, marke it, that was their ayme to get the choice Chriſtians, thoſe whoſe hearts are for Chriſt and Heaven, their deſigne is moſtly upon any in whom any worke of Grace appeares. So have all deceivers ever, that they might glory in their fleſh, as our Apoſtle according to the wiſdome given unto him hath written, <hi>Gal.</hi> 6. 13. but they ſhall not compaſſe their end, they'le returne, perceiving the ſtrangers voice; theſe gracious ſoules thought it had been Chriſts voyce which they heard in theſe men, in theſe their errours: but finding at length their miſtake, and under the ſheeps-skin of gifts and graces perhaps, ſhew of Scripture, manifeſtation of the Spirit, finding the bloody wolfe of errour and falſhood, that ſoul-murtherer, they will embrace the truth, and follow Chriſt: perhaps hearing this you will for a while be froward (for who can be willing to think he is in an errour, or is deceived?) but Chriſt, and his Father hold you in their hand, and you cannot wreſt your ſelves thence. Another end they have, they would be great, and of ſame in the Church of God: but their folly ſhall be manifeſt to all, not only to the Elect, but to all that will not deny the light of their reaſon, and doe hold the Scripture in the Word of God, and ſo ſhall fall in their eſteem in mens hearts within the Viſible Church: our Saviour hath ſaid it, they ſhall be leaſt in the Kingdome of Heaven, <hi>Mat.</hi> 5. 19. of no eſteem in the Church of Chriſt, although for a while they beare the bell. See the t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uth of it in all the Hereticks, Schiſmaticks, Novelliſts, Perſecuters, and the like of all for<g ref="char:EOLhyphen"/>mer ages; they have no name of memoriall left, but a rot is upon their memory. Another end they have, and that is to ſpread and propagate their Opinions and waies, that they might with the Phariſees and Herodians of old, <hi>leaven all the lump of Gods people;</hi> but their folly ſhall be manifeſt, and that manifeſtation of their folly<g ref="char:punc">▪</g> ſhall ſet them their bounds, <hi>they ſhall pro<g ref="char:EOLhyphen"/>ceed no further,</hi> Thus have all the ancient Hereſies, and Schiſmes of the Pe<g ref="char:EOLhyphen"/>lagians,
+<pb n="37" facs="tcp:158449:23"/> Donatiſts, and the like been bounded, and the infection ſtayed: ſo God defiles Church-defilers, they faile of their ends.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> There are for them from God apportioned Plagues in this world, they make rents, and trouble Gods building, the repairing of his houſe; God will trouble them, theſe <hi>Achans:</hi> God will ſcatter them in <hi>Iacob,</hi> and diſperſe them in <hi>Iſrael.</hi> They break, and teach the breaches and violations of Gods Commandements the leaſt of his Commandements, that of his day, they ſhall be eſteemed nothing in the Church, be leaſt in the Kingdome of Hea<g ref="char:EOLhyphen"/>ven. Scandalous Brethren ſhall have their Milſtone, workers of iniquity ſtrange puniſhments; Hereſies and diviſions ſwarm, God hath his Eaſt wind whereby he can ſweep away thoſe Locuſts, and caſt them into the Red Sea. Perſecutors have their doom notably in this life, beſides hereafter. Re<g ref="char:EOLhyphen"/>member <hi>Antiochus,</hi> of whom you reade in the ſecond of <hi>Maccab.</hi> 9. chap. Remember <hi>Herod</hi> eaten up with wormes, <hi>Act.</hi> 12. 23. Remember the He<g ref="char:EOLhyphen"/>retique <hi>Arrius,</hi> that voided his bowels with his ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rements in a common Iakes; and all other Heretiques and Schiſmatiques, and the Plagues upon Papiſts, mentioned in <hi>Rev.</hi> 16. and 18. chapters.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> It is not the leaſt of puniſhments to give them over to their ſeverall pernicious wayes, that he that is filthy, ſhould be filthy ſtill; the ſpiritually proud, ſhould be ſo ſtill: where God ſaith, they are joyned to Idols, Let them alone: They are Vain-glorious, Let them alone: They are given to errours and to make diviſions: Let them alone: Thus you ſee how God will deſtroy the deſtroyers of his houſe.</p>
+                  <p>The certainty of this juſt proceeding of the Lord, appears in four things, which are as ſo many reaſons or grounds of this Doctrine.</p>
+                  <p n="1">1. It is the vengeance of his Temple, <hi>Jer.</hi> 51. 11. <hi>&amp;</hi> 50. 28, which is a ſore vengeance; in the execution whereof, the Lord Pleadeth the cauſe of Zion throughly, to give reſt to his Church, and diſquiet his enemies, whoſe ſpirit can ſuſtain it ſelf in the day of Viſitation, when the Lord ſhall ſay, <hi>Behold, I am againſt thee?</hi>
+                  </p>
+                  <p n="2">2. Secondly, the Argument is ſtrong here from the leſſe to the greater; God hath ſaid, and will not repent of his word, concerning Death and the Grave: O Death, I will be thy Plague, O Grave I will be thy deſtruction, <hi>Hoſ.</hi> 13. 14. Becauſe they offered to touch the bodies of his Saints, which are his Temple, and deſtroyed his holy place. Shall God ſay thus of Death and the Grave, and reſolve that Repentance ſhall be hid from his eyes? In this thing he will never alter his purpoſe that he determined. And ſhall he not much more be the plagues and deſtruction of ſoul-polluters, of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtroy<g ref="char:EOLhyphen"/>ers of his Church, of rophaners of the Communion of his Saints and people.</p>
+                  <p>Thirdly, the Temple of God is holy and inviolable, therefore the ſin of
+<pb n="38" facs="tcp:158449:24"/> Prophaning and waſting of it, is provoking and execrable,</p>
+                  <p>Fourthly, God is a jealous God, and the vindicator and avenger of his glory: “<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>Zelo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es et vindex gloriae ſuae.</hi>
+                     </note> no gifts will pacifie jealouſie: no power can ſhelter and ſave from the jealouſie of the Lord of Hoſts. It is he, the mighty one of Jacob, the holy one of Iſrael, that ſaith, <hi>Zach.</hi> 8. 2. I am jealous for Zion with great jealouſie: and I am jea<g ref="char:EOLhyphen"/>lous for her with great fury.</p>
+               </div>
+            </div>
+            <div type="application">
+               <p>I have done with the explication and confirmation of the third Doctrine: the application reſpecting the preſent Doctrine, and the whole Text, I ſhall draw up under two ſorts of uſes:</p>
+               <list>
+                  <item>1. <hi>Of Information.</hi>
+                  </item>
+                  <item>2. <hi>Of Exhortation.</hi>
+                  </item>
+               </list>
+               <div n="1" type="application">
+                  <p n="1">1. We may from hence inform our Iudgements in four truths.</p>
+                  <p>Firſt, what is the Chriſtian uſe of the Ceremoniall Law: the practice of it is out of date, and deadly; but it is not cut out of the Bible:<note n="“" place="margin">
+                        <hi>Non obſervamus, non quia damnata ſed quia mutata ſunt, non ut res ipſae quae ſignificabantur perirent, ſed ut <gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſign<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ſuis<g ref="char:punc">▪</g> quaque temporibus convenirent.</hi> Tom. 6. Aug. oratio<g ref="char:EOLhyphen"/>ne cont. Iud. c. 3.</note> God hath left it as part of Ca<g ref="char:EOLhyphen"/>nonicall Scripture, that we may reade it, preach and hear it, that comparing the things themſelves with thoſe ſhadows, we may with pleaſing delight imbrace the body of thoſe ſhadows: here are alſo Emblems, Similitudes, and expreſſions of Gods own deviſing, out of Gods own mint, which with ſafety and profit, we may and ought to uſe. This fancifull age may here pleaſe their fancy, and yet re<g ref="char:EOLhyphen"/>tain and grow more in the ſoundneſſe of faith and love which is in Chriſt Ieſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>Secondly, that there is the ſame God in both Teſtaments, the ſame Chriſt,<note n="“" place="margin">
+                        <hi>Evacuatur in Chriſto, non vetus Teſtamentum, ſed volamen ejus, ut per Chriſtum intelligatur, &amp; quia ſidenu<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tur, quod ſine Chriſto obſcurum, &amp; quia adopertum est, non igitur per Do<g ref="char:EOLhyphen"/>mini gratiam tanquam inutilia ibi le<g ref="char:EOLhyphen"/>gerentur, ablata ſunt, ſed tegmen po<g ref="char:EOLhyphen"/>tius quo utilia <gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>gebantur.</hi> Aug. Tom 6. ad Honor: Contra. Mani<g ref="char:EOLhyphen"/>chaeos <hi>de</hi> util. Credendi. 63.</note> the ſame Covenant, though there be different wayes of Miniſtery, and degrees of manifeſtation and clarity; that place in <hi>Heb.</hi> 8. 8. 10. taken out of <hi>Jer.</hi> 31. 31, 32, 33. which ſpeaketh of a new &amp; old Covenant, is thus to be underſtood; not of two Covenants differing in ſubſtance; not of the two Covenants, the Covenant of workes, and the Covenant of Grace; but of one and the ſame Covenant of Grace diſtinguiſhed in their different manner of Adminiſtration; the one in Cere<g ref="char:EOLhyphen"/>monies, Types, ſhadows, to ſignifie and lead to Chriſt that was to come; the other in the ſubſtance of ſpirituall things themſelves, the body, the truth, ex<g ref="char:EOLhyphen"/>hibiting Chriſt now already come: this place is much abuſed through in<g ref="char:EOLhyphen"/>advertency. Here alſo we ſee that a proof out of the old Teſtament is as
+<pb n="39" facs="tcp:158449:24"/> much Goſpel if rightly applied, as any in the New-Teſtament.</p>
+                  <p>Thirdly, that the Miniſters of the Goſpel ought to preach Gods wrath to evill Chriſtians.</p>
+                  <p>Fourthly, that they ought to preach wrath not only to thoſe Chriſtians of evil life and manners, but alſo to thoſe of evil Doctrine, of errors in Re<g ref="char:EOLhyphen"/>ligion, of Pride, diſſenſions, and faults in that kinde; where they are not yet fallen to notorious Hereticall Doctrine, theſe are threatned in this Text by the Apoſtle.</p>
+               </div>
+               <div n="2" type="application">
+                  <p n="2">2. We ſhould be exhorted and perſwaded to our duty, even thoſe duties which are to be preſſed unto, that we may eſcape this ſin and puniſhment, they reſpect our ſelves and others.</p>
+                  <div n="1" type="sub-subsection">
+                     <p n="1">1. For our ſelves, let us ſee how far in any kinde we are guilty, and be humbled for the ſame in confeſſions and godly ſorrow; and then do as <hi>Paul,</hi> who preached the Faith which once he deſtroyed, <hi>Gal.</hi> 1.. 23, 24. Build up the Temple, which once we deſtroyed, that all the gracious that ſee or hear of it may glorifie God in us.</p>
+                  </div>
+                  <div n="2" type="sub-subsection">
+                     <p n="2">2. For others, theſe duties lie charged upon us to eſcape pollution and deſtruction.</p>
+                     <p n="1">1. We muſt try the ſpirits, the Doctrine of thoſe Teachers, that ſay they teach by the ſpirit; they bring the doctrine of Gods ſpirit, not of their own ſpirit, we muſt not receive what they ſay, upon truſt, but try it, 1 <hi>Joh.</hi> 4. 1.</p>
+                     <p n="2">2. We muſt marke thoſe that cauſe diviſions and offences contra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y to the doctrine received, and avoid them, <hi>Rom.</hi> 16. 17. <hi>Ob.</hi> They ſeek to ſet up the Lord Ieſus Chriſt. <hi>Sol.</hi> v. 18. They ſerve their own bellies, obſerve them well, and you will finde it; again, they ſeek to draw away diſciples after them, and not to bring men to be diſciples to Ieſus Chriſt, <hi>Act.</hi> 20. 30. <hi>Queſt.</hi> But may we not hear them in their ſeparated meetings? <hi>Anſ.</hi> That is not to avoid them, you are by the command of the Apoſtle to avoid and decline them, but by this you incourage them, and feed their proud humour, who glory in having their meetings frequented.</p>
+                     <p n="3">3. We muſt place all in their due place, Miniſters in their place, fathers let them be fathers; and evil workers and dogs in their due place; that is, <hi>with<g ref="char:EOLhyphen"/>out, Rev.</hi> 22. 15. Let no man corrupt your mindes from the Goſpel, and its Simplicity.</p>
+                     <p n="4">4. We muſt hold the unity of Faith and love, that we may with one minde and mouth glorifie God, <hi>The Father of our Lord Ieſus Chriſt,</hi> Rom. 15. 5. 6. 7. If we have bitter ſtrifes and envyings (the never failing fruits of erroneous opinions and diviſions) let us not glory that we are true Chri<g ref="char:EOLhyphen"/>ſtians, and lie againſt the truth, as we do in ſaying ſo; to perſiſt in ſuch evils proveth that we are no true Chriſtians, <hi>Iam.</hi> 3. 14, 15, 16, 17.</p>
+                     <pb n="40" facs="tcp:158449:25"/>
+                     <p>
+                        <note n="“" place="margin">Paraeus in Loc. Quid gravius ho<g ref="char:EOLhyphen"/>die eccleſiam affligit, curſum evan<g ref="char:EOLhyphen"/>gelij magis remoratur, quam Schiſma<g ref="char:EOLhyphen"/>ticae doctorum contentioues? Viderint iſti quid ſe mancat: nos diſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mus tem<g ref="char:EOLhyphen"/>plum D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i reveren ter &amp; in pace exor<g ref="char:EOLhyphen"/>nare Doctrinâ, fide, vitâ purâ. Vt enim ſui templi vaſtatores, tyrannos, Haereticos, Schiſmaticos deus deſtruat; Ita fideles, Architectos, cultores, &amp; defenſores gratia, &amp; benedictione cumulabit, juxta promiſſionem: Ego me diligentes diligo: Honorantes me honorabo.</note> What is there in the world that doth more heavily afflict the Church at this day, that doth more retard the courſe of the Goſpel than the Schiſmaticall contentions of Teachers? Let theſe men ſee what abides them: as for us, let us learne with fear and trembling and in all peaceableneſſe to adorne the Temple of God with ſound doctrine, the power of Faith and the purity of an holy life: For as the Lord will deſtroy the deſtroyers of his Temple, Ty<g ref="char:EOLhyphen"/>rants, Heretiques, Schiſmatiques and the reſt of the Litter of all the Foxes, the little Foxes, So he will Crown with his Grace and bleſſing all Maſters, builders, Repairers, Beautifiers, faithfull Labourers and Defen<g ref="char:EOLhyphen"/>ders thereof according to his Promiſe: <hi>Thoſe that love me I ever love, and thoſe that honour me I will honour.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
